@@ -1,0 +1,39 @@
+I190401 17:35:42.936533 1 util/log/clog.go:1176  [config] file created at: 2019/04/01 17:35:42
+I190401 17:35:42.936533 1 util/log/clog.go:1176  [config] running on machine: 880cbefc32fa
+I190401 17:35:42.936533 1 util/log/clog.go:1176  [config] binary: CockroachDB CCL v2.1.6 (x86_64-unknown-linux-gnu, built 2019/03/04 23:21:07, go1.10.7)
+I190401 17:35:42.936533 1 util/log/clog.go:1176  [config] arguments: [/cockroach/cockroach start --insecure]
+I190401 17:35:42.936533 1 util/log/clog.go:1176  line format: [IWEF]yymmdd hh:mm:ss.uuuuuu goid file:line msg utf8=✓
+W190401 17:35:42.936532 1 cli/start.go:1055  RUNNING IN INSECURE MODE!
+
+- Your cluster is open for any client that can access <all your IP addresses>.
+- Any user, even root, can log in without providing a password.
+- Any user, connecting as root, can read or write any data in your cluster.
+- There is no network encryption nor authentication, and thus no confidentiality.
+
+Check out how to secure your cluster: https://www.cockroachlabs.com/docs/v2.1/secure-a-cluster.html
+I190401 17:35:42.944002 1 server/status/recorder.go:609  available memory from cgroups (8.0 EiB) exceeds system memory 3.9 GiB, using system memory
+W190401 17:35:42.944289 1 cli/start.go:935  Using the default setting for --cache (128 MiB).
+  A significantly larger value is usually needed for good performance.
+  If you have a dedicated server a reasonable setting is --cache=.25 (988 MiB).
+I190401 17:35:42.944425 1 server/status/recorder.go:609  available memory from cgroups (8.0 EiB) exceeds system memory 3.9 GiB, using system memory
+W190401 17:35:42.944441 1 cli/start.go:948  Using the default setting for --max-sql-memory (128 MiB).
+  A significantly larger value is usually needed in production.
+  If you have a dedicated server a reasonable setting is --max-sql-memory=.25 (988 MiB).
+I190401 17:35:42.944533 1 server/status/recorder.go:609  available memory from cgroups (8.0 EiB) exceeds system memory 3.9 GiB, using system memory
+I190401 17:35:42.944545 1 cli/start.go:1069  CockroachDB CCL v2.1.6 (x86_64-unknown-linux-gnu, built 2019/03/04 23:21:07, go1.10.7)
+I190401 17:35:43.083948 1 server/status/recorder.go:609  available memory from cgroups (8.0 EiB) exceeds system memory 3.9 GiB, using system memory
+I190401 17:35:43.083969 1 server/config.go:386  system total memory: 3.9 GiB
+I190401 17:35:43.084021 1 server/config.go:388  server configuration:
+max offset             500000000
+cache size             128 MiB
+SQL memory pool size   128 MiB
+scan interval          10m0s
+scan min idle time     10ms
+scan max idle time     1s
+event log enabled      true
+I190401 17:35:43.084042 1 cli/start.go:913  using local environment variables: COCKROACH_CHANNEL=official-docker
+I190401 17:35:43.084058 1 cli/start.go:920  process identity: uid 0 euid 0 gid 0 egid 0
+I190401 17:35:43.084067 1 cli/start.go:545  starting cockroach node
+I190401 17:35:43.092442 27 storage/engine/rocksdb.go:574  opening rocksdb instance at "/cockroach/cockroach-data/cockroach-temp998919998"
+E190401 17:35:43.121420 1 cli/error.go:230  failed to start server: could not create temp storage: could not open rocksdb instance: IO error: While fsync: a directory: Invalid argument
+Error: failed to start server: could not create temp storage: could not open rocksdb instance: IO error: While fsync: a directory: Invalid argument
