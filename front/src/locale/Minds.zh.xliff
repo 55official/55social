@@ -1,0 +1,3477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="ng2.template" datatype="plaintext" xml:space="preserve" source-language="en" target-language="zh">
+    <header>
+      <tool tool-id="poeditor.com" tool-name="POEditor"/>
+    </header>
+    <body>
+      <trans-unit id="MINDS__HOME__HOMEPAGE__LAUNCH_CTA">
+        <source>We are an open source and decentralized platform for Internet freedom. Get paid in crypto for your contributions to the community.</source>
+        <target>我们是一个开源和去中心化的互联网自由平台。您对社区的贡献我们将会以数字货币FF的方式进行奖励。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__HOME__HOMEPAGE__SEE_MORE_ACTION">
+        <source>Click To See more</source>
+        <target>查看更多</target>
+      </trans-unit>
+      <trans-unit id="MINDS__HOME__LOGIN__LOGIN">
+        <source>Login to Minds</source>
+        <target>登录 55 social</target>
+      </trans-unit>
+      <trans-unit id="MINDS__HOME__FORGOT_PASSWORD__ENTER_USERNAME_HELP_NOTE">
+        <source>To request a new password, enter your username</source>
+        <target>请输入您的用户名来请求新密码</target>
+      </trans-unit>
+      <trans-unit id="MINDS__HOME__FORGOT_PASSWORD__UNLOCK_CODE_SENT">
+        <source>We have sent an unlock code to your registered email address.</source>
+        <target>我们已向您的注册邮件地址发送验证码。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__HOME__FORGOT_PASSWORD__ENTER_NEW_PASSWORD_HELP_NOTE">
+        <source>Please enter your new password</source>
+        <target>请输入您的新密码</target>
+      </trans-unit>
+      <trans-unit id="MINDS__HOME__FORGOT_PASSWORD__CONFIRM_PASSWORD_LABEL">
+        <source>Password (confirm)</source>
+        <target>密码 (确认)</target>
+      </trans-unit>
+      <trans-unit id="MINDS__HOME__FORGOT_PASSWORD__RESET_ACTION">
+        <source>Reset</source>
+        <target>重置</target>
+      </trans-unit>
+      <trans-unit id="MINDS__POSTER__SPEAK_YOUR_MIND">
+        <source>Speak your mind...</source>
+        <target>说出你的观点...</target>
+      </trans-unit>
+      <trans-unit id="MINDS__POSTER__POST_ACTION">
+        <source>Post</source>
+        <target>发布</target>
+        <note>Action of posting</note>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__SINGLE__FLAGGED_AS_SPAM">
+        <source>This activity is flagged as spam.</source>
+        <target>此活动被标记为垃圾邮件。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__SINGLE__APPEAL_FLAG_NOTE">
+        <source>If you wish to appeal, please contact us at info@minds.com.</source>
+        <target>Si quieres apelar, por favor contáctanos a info@minds.com.</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__UPGRADE_TO_PLUS_ACTION">
+        <source>Upgrade to Plus</source>
+        <target>Actualizar a Plus</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__COPYRIGHT_FOOTER">
+        <source>© Minds 2016</source>
+        <target>©2017-2019 55. ALL RIGHTS RESERVED.</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__200_FREE_VIEWS">
+        <source>Have 200 free views on us. Hit post to be boosted.</source>
+        <target>有200余个自由观点，点击发布进行推广.</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CAPTURE__DROP_AREA">
+        <source>Drop your files here</source>
+        <target>请把文件放在此处</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CAPTURE__ALBUM_LABEL">
+        <source>Album</source>
+        <target>相册</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CAPTURE__ADD_FILE_ACTION">
+        <source>Add file</source>
+        <target>添加文件</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CAPTURE__SAVE_TO_ALBUM">
+        <source>Save to album</source>
+        <target>保存至相册</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CAPTURE__DRAG_TO_UPLOAD">
+        <source>Drag to upload</source>
+        <target>拖动上传</target>
+      </trans-unit>
+      <trans-unit id="MINDS__DISCOVERY__ALBUMS_TAB">
+        <source>Albums</source>
+        <target>相册</target>
+      </trans-unit>
+      <trans-unit id="MINDS__DISCOVERY__LOCATION_OFF_TOGGLE">
+        <source>Location off</source>
+        <target>关闭地点定位</target>
+      </trans-unit>
+      <trans-unit id="MINDS__DISCOVERY__NO_RESULTS_LABEL">
+        <source>No results</source>
+        <target>没有结果</target>
+      </trans-unit>
+      <trans-unit id="MINDS__DISCOVERY__LOCATING_LABEL">
+        <source>Locating</source>
+        <target>定位中</target>
+      </trans-unit>
+      <trans-unit id="MINDS__DISCOVERY__MILES_UNIT">
+        <source>miles</source>
+        <target>英里</target>
+      </trans-unit>
+      <trans-unit id="MINDS__DISCOVERY__OF_WORD">
+        <source>of</source>
+        <target>距离</target>
+        <note>Distance from a city</note>
+      </trans-unit>
+      <trans-unit id="MINDS__DISCOVERY__PASS_ACTION">
+        <source>Pass</source>
+        <target>忽略</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CREATOR__WIRE_TYPE_TITLE">
+        <source>Payment Method</source>
+        <target>支付方式</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CREATOR__REPEAT_TRANSACTION_MONTHLY">
+        <source>Repeat this transaction monthly.</source>
+        <target>按月支付.</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CREATOR__SEND_ACTION">
+        <source>SEND</source>
+        <target>支付</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CREATOR__WIRED_NOTICE">
+        <source>Wired!</source>
+        <target>已支付!</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__WIRE_ME_ACTION">
+        <source>Wire me</source>
+        <target>转账FF</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__REWARDS_TITLE">
+        <source>Rewards</source>
+        <target>奖励</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__REWARD_DESCRIPTION_PLACEHOLDER">
+        <source>About your offerings. eg. Describe what your supporters will receive…</source>
+        <target>关于您可以提供东西。例如：描述点赞你的人将会得到...</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__REWARD_CHANGE_NOTICE">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />@<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /><x id="INTERPOLATION" /> reserves the right to change rewards at anytime without notice</source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" />@<x id="CLOSE_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /> 保留随时更改奖励的权利，恕不另行通知。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__FLAGGED_AS_SPAM">
+        <source>This user was flagged as spam.</source>
+        <target>此邮件已被标记为垃圾邮件</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__FLAGGED_AS_DELETED">
+        <source>This user was flagged as deleted.</source>
+        <target>此用户不存在或者已删除</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__ERROR_CHECK_USERNAME">
+        <source>Please check the username</source>
+        <target>请核实您的用户名</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__BLOCKED_NOTICE">
+        <source>You have blocked @<x id="INTERPOLATION" /></source>
+        <target>您已屏蔽 @<x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__UNBLOCK_ACTION">
+        <source>Click to Unblock</source>
+        <target>点击解除屏蔽</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__SUPPORTERS">
+        <source>Supporters</source>
+        <target>点赞</target>
+        <note>Count of supporters</note>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__SUBSCRIBERS_WITH_COUNT">
+        <source>Subscribers (<x id="INTERPOLATION" />)</source>
+        <target>粉丝(<x id="INTERPOLATION" />)</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__SUBSCRIPTIONS_WITH_COUNT">
+        <source>Subscriptions (<x id="INTERPOLATION" />)</source>
+        <target>订阅 (<x id="INTERPOLATION" />)</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__ACCOUNT_TIMESTAMP">
+        <source>Account created on:</source>
+        <target>账户生成于:</target>
+      </trans-unit>
+      <trans-unit id="MINDS__MEDIA__ENTITY_FLAGGED_AS_SPAM">
+        <source>This media was flagged as spam.</source>
+        <target>多媒体被标记为垃圾邮件。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__MEDIA__ENTITY_FLAGGED_AS_DELETED">
+        <source>This media was flagged as deleted.</source>
+        <target>多媒体未找到或者已删除</target>
+      </trans-unit>
+      <trans-unit id="MINDS__MEDIA__ENTITY_NOT_EXISTS">
+        <source>The post may not exist</source>
+        <target>短推不存在</target>
+      </trans-unit>
+      <trans-unit id="MINDS__MEDIA__PLAYS_COUNTER">
+        <source><x id="INTERPOLATION" /> plays</source>
+        <target><x id="INTERPOLATION" /> 视频</target>
+      </trans-unit>
+      <trans-unit id="MINDS__MEDIA__BACK_TO_ALBUM_ACTION">
+        <source>Back to album</source>
+        <target>返回相册</target>
+      </trans-unit>
+      <trans-unit id="MINDS__MEDIA__CONFIRM_DELETION">
+        <source>Are you sure you want to delete this?<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />There's no UNDO!</source>
+        <target>确定删除？<x id="LINE_BREAK" ctype="lb" /><x id="LINE_BREAK" ctype="lb" />删除后将无法恢复！</target>
+      </trans-unit>
+      <trans-unit id="MINDS__MEDIA__DELETION_CONFIRMATION">
+        <source>The media has been deleted.</source>
+        <target>多媒体已删除</target>
+      </trans-unit>
+      <trans-unit id="MINDS__MEDIA__TITLE_INPUT_PLACEHOLDER">
+        <source>Title...</source>
+        <target>标题...</target>
+      </trans-unit>
+      <trans-unit id="MINDS__MEDIA__ANYONE_LABEL">
+        <source>Anyone</source>
+        <target>公开</target>
+      </trans-unit>
+      <trans-unit id="5fa5c05063493603a4bba6c2341641a83fb0be18">
+        <source>Enter password</source>
+        <target>请输入密码</target>
+      </trans-unit>
+      <trans-unit id="aac99820b81b63dd081ef9449080e545df8b03cd">
+        <source>Unlock</source>
+        <target>解锁</target>
+      </trans-unit>
+      <trans-unit id="3da600d1c07bca497e04290639e681b36c50d65c">
+        <source>Enter a password</source>
+        <target>输入密码</target>
+      </trans-unit>
+      <trans-unit id="2880518d3a5544fa6cd834b1ac80e47978a9c7c4">
+        <source>Confirm your password</source>
+        <target>确认密码</target>
+      </trans-unit>
+      <trans-unit id="ff3774138bffaf62a4b812046dfbb9939c42657e">
+        <source>Setup</source>
+        <target>设置</target>
+      </trans-unit>
+      <trans-unit id="8fcd5ac68b67a75cbedc58af3cdbe43871cb52b6">
+        <source>Changing your encryption password will cause your previous messages to be unreadable.</source>
+        <target>修改您的加密密码后将会造成您之前发送的私信无法查看</target>
+      </trans-unit>
+      <trans-unit id="d7b35c384aecd25a516200d6921836374613dfe7">
+        <source>Cancel</source>
+        <target>取消</target>
+      </trans-unit>
+      <trans-unit id="024cdb2814b0cb3f4ced148f1a0b9854447cb214">
+        <source>Change</source>
+        <target>修改</target>
+      </trans-unit>
+      <trans-unit id="5a089bf395596f2cf60308df8ab5155b57e7808f">
+        <source>Delete chat history</source>
+        <target>删除聊天记录</target>
+      </trans-unit>
+      <trans-unit id="bf463b189696c19769ea263227e6c22aefafb918">
+        <source>Destroy</source>
+        <target>销毁</target>
+      </trans-unit>
+      <trans-unit id="95307fc6945349382ee0699191e04e3063f9e838">
+        <source>Block participants</source>
+        <target>阻止参与者</target>
+      </trans-unit>
+      <trans-unit id="7f5d0c10614e8a34f0e2dad33a0568277c50cf69">
+        <source>Block</source>
+        <target>阻止</target>
+      </trans-unit>
+      <trans-unit id="bf9e72e00f689f8d9960aa83a58f619efbc8a006">
+        <source>Un-block chat</source>
+        <target>解锁通话</target>
+      </trans-unit>
+      <trans-unit id="dc7c08653bc37fb9cdcf3453b7d9680ab808c9cb">
+        <source>Un-block</source>
+        <target>解锁</target>
+      </trans-unit>
+      <trans-unit id="94d1674e27430e9051dc87a58779893b2605ac5d">
+        <source>Call Ended</source>
+        <target>通话结束</target>
+      </trans-unit>
+      <trans-unit id="a478a0197700c2360a41d1f343299dc938e53463">
+        <source>Missed Call</source>
+        <target>未接来电</target>
+      </trans-unit>
+      <trans-unit id="fadb80ab260c1bce075198beaf83fabc08aaa09b">
+        <source>You have blocked this chat</source>
+        <target>您屏蔽了本次通话</target>
+      </trans-unit>
+      <trans-unit id="7f3bb04fd3c88098a333f05ce1a1bc7e06b3da9d">
+        <source>This chat is no longer available</source>
+        <target>本次通话已失效</target>
+      </trans-unit>
+      <trans-unit id="1e6578b9c0cab71d5f46c0041f3c0094c1eed359">
+        <source>Awaiting other party…</source>
+        <target>等待其他用户加入...</target>
+      </trans-unit>
+      <trans-unit id="9078f2de0ffbefe89d0fb9b09cf2038b0b287b3e">
+        <source>Send a message...</source>
+        <target>发送私信...</target>
+      </trans-unit>
+      <trans-unit id="78583d92f26b96e875855729612b59ea506806e2">
+        <source>Messenger</source>
+        <target>私信</target>
+      </trans-unit>
+      <trans-unit id="292a64764e45a7538202ea8888657ba15c0068ad">
+        <source>Logout of chat</source>
+        <target>退出通话</target>
+      </trans-unit>
+      <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d">
+        <source>Logout</source>
+        <target>登出</target>
+      </trans-unit>
+      <trans-unit id="3b95046d824f0138f44cace2859369c042655629">
+        <source>Disable sounds</source>
+        <target>耳麦静音</target>
+      </trans-unit>
+      <trans-unit id="7be9877f3b1042bfc095c728acb0dbeb9c6e8205">
+        <source>Mute</source>
+        <target>话筒静音</target>
+      </trans-unit>
+      <trans-unit id="4ebe71781b77a896451943d0a9b3cb527e0e4bb7">
+        <source>Enable sounds</source>
+        <target>开启耳麦</target>
+      </trans-unit>
+      <trans-unit id="1f689fada9748a830117f5b429a88ef8629082a8">
+        <source>Unmute</source>
+        <target>开启话筒</target>
+      </trans-unit>
+      <trans-unit id="e7b6e42c6553dba6812def465939dc96bd286d61">
+        <source>Change your encryption password</source>
+        <target>修改您的加密密码</target>
+      </trans-unit>
+      <trans-unit id="959fdc6bec6e975de7beb7ba6274eb04b5303211">
+        <source>Re-key</source>
+        <target>键入</target>
+      </trans-unit>
+      <trans-unit id="7e892ba15f2c6c17e83510e273b3e10fc32ea016">
+        <source>Search</source>
+        <target>搜索</target>
+      </trans-unit>
+      <trans-unit id="MINDS__TOPBAR__SETTINGS">
+        <source>Settings</source>
+        <target>色黑之</target>
+      </trans-unit>
+      <trans-unit id="MINDS__TOPBAR__LOGOUT">
+        <source>Logout</source>
+        <target>登出</target>
+      </trans-unit>
+      <trans-unit id="MINDS__EMOJI__LABEL">
+        <source>Emoji</source>
+        <target>表情</target>
+      </trans-unit>
+      <trans-unit id="MINDS__TAGCLOUD__TITLE">
+        <source>Trending Hashtags</source>
+        <target>热门标签</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__ANALYTICS__DAU_TITLE">
+        <source>Daily Active Users</source>
+        <target>日活</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__ANALYTICS__MAU_TITLE">
+        <source>Monthly Active Users</source>
+        <target>月活</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__ANALYTICS__RETENTION_TITLE">
+        <source>Retention</source>
+        <target>留存</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__ANALYTICS__SIGNUPS_TITLE">
+        <source>Signups</source>
+        <target>注册数</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__ANALYTICS__IMPRESSIONS_BOOST_ROW">
+        <source>Impressions</source>
+        <target>投放量</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__ANALYTICS__BURN_RATE_BOOST_ROW">
+        <source>Burn rate</source>
+        <target>燃尽率</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__ANALYTICS__BURN_RATE_BOOST_VALUE">
+        <source><x id="INTERPOLATION" /> / hour</source>
+        <target><x id="INTERPOLATION" /> / 小时</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS_MODAL__REJECTION_TITLE">
+        <source>Specify a reason for the rejection</source>
+        <target>选择拒绝原因</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__NEWSFEED_TAB">
+        <source>Newsfeed (<x id="INTERPOLATION" />)</source>
+        <target>广场(<x id="INTERPOLATION" />)</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__CONTENT_TAB">
+        <source>Content (<x id="INTERPOLATION" />)</source>
+        <target>内容 (<x id="INTERPOLATION" />)</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__IN_REVIEW_STATS">
+        <source>In Review</source>
+        <target>审核中</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__BACKLOG_STATS">
+        <source>Backlog (all)</source>
+        <target>待办事项（待办）</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__BACKLOG_PRIORITY_STATS">
+        <source>Backlog (priority)</source>
+        <target>待办事项（优先）</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__IMPRESSIONS_STATS">
+        <source>Impressions (backlog)</source>
+        <target>投放量(剩余)</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__AVG_IMPRESSIONS_STATS">
+        <source>Avg. Impressions (backlog)</source>
+        <target>平均投放量(剩余)</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__AVG_APPROVAL_TIME_STATS">
+        <source>Avg. Approval Time</source>
+        <target>平均通过时间</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__LAST_UPDATED_STATS">
+        <source>Updated <x id="INTERPOLATION" /></source>
+        <target>已更新 <x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__NO_MORE_BOOSTS">
+        <source>There are no more boosts to approve</source>
+        <target>没有更多需要审核的推广广告</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__QUALITY_SLIDER_LABEL">
+        <source>Quality:</source>
+        <target>质量：</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__PREVIOUSLY_REJECTED_LABEL">
+        <source>Previously rejected: <x id="INTERPOLATION" /></source>
+        <target>已拒绝：<x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__BOOST_BID_POINTS_LABEL">
+        <source>Bid: <x id="INTERPOLATION" /> points</source>
+        <target>竞价： <x id="INTERPOLATION" /> 点</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__BOOST_BID_USD_LABEL">
+        <source>Bid: <x id="INTERPOLATION" /> USD</source>
+        <target>竞价： <x id="INTERPOLATION" /> 美元</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__BOOST_ACTION_OPEN">
+        <source>Open</source>
+        <target>打开</target>
+        <note>Open as a safe boost</note>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__BOOST_ACTION_OPEN_EXPLICIT">
+        <source>Open (E-tag)</source>
+        <target>开启打码</target>
+        <note>Open as an explicit boost</note>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__BOOST_ACTION_EXPLICIT">
+        <source>E-tag</source>
+        <target>打码</target>
+        <note>E-tag as mark as explicit</note>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__BOOST_MODAL__YES_BUTTON">
+        <source>Reject Boost</source>
+        <target>拒绝推广</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__PAGES__ADD_PAGE">
+        <source>Add a new page</source>
+        <target>添加新页</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__PAGES__ADD_LINK">
+        <source>Add a new link</source>
+        <target>添加新链接</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__PAGES__SAVE_AND_PUBLISH_ACTION">
+        <source>Save &amp; Publish</source>
+        <target>保存并发布</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__PAGES__SAVING">
+        <source>Saving</source>
+        <target>保存中</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__PAGES__LINK_URL_LABEL">
+        <source>URL (relative or absolute):</source>
+        <target>URL (相对链接 或者 绝对链接):</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__REPORTS_TAB">
+        <source>Reports</source>
+        <target>举报</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__APPEALS_TAB">
+        <source>Appeals</source>
+        <target>申述</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__ARCHIVED_TAB">
+        <source>Archived</source>
+        <target>存档</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__HISTORY_TAB">
+        <source>History</source>
+        <target>历史记录</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__EMPTY_FILTER_LABEL">
+        <source>There are no <x id="INTERPOLATION" />.</source>
+        <target>没有<x id="INTERPOLATION" />.</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__REPORTED_BY_LABEL">
+        <source>Reported by:</source>
+        <target>举报人：</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__SUBJECT_LABEL">
+        <source>Subject:</source>
+        <target>主题：</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__MESSAGE_LABEL">
+        <source>Message:</source>
+        <target>信息:</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__DATE_LABEL">
+        <source>Date:</source>
+        <target>日期:</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__LAST_ACTION_LABEL">
+        <source>Last Action:</source>
+        <target>最后竞价:</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__APPEAL_NOTE_LABEL">
+        <source>Appeal Note:</source>
+        <target>举报理由:</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__ARCHIVE_ACTION">
+        <source>Archive</source>
+        <target>归档biao'ji</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__REPORTS__MARK_AS_EXPLICIT_ACTION">
+        <source>Mark as <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />explicit<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /></source>
+        <target>标记为<x id="START_ITALIC_TEXT" ctype="x-i" />打码<x id="CLOSE_ITALIC_TEXT" ctype="x-i" /></target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__MONETIZATION__EMPTY">
+        <source>Nothing is monetized .</source>
+        <target>没有以通证计价的</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__MONETIZATION__DEMONETIZE">
+        <source>De-Monetize</source>
+        <target>去通证化</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__PROGRAMS__APPLICATION_DESCRIPTOR">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" /> <x id="TAG_IMG" ctype="image" equiv-text="&lt;img/&gt;" /> <x id="INTERPOLATION" /> <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> is applying for <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="START_LINK" ctype="x-a" /> <x id="TAG_IMG" ctype="image" /> <x id="INTERPOLATION" /> <x id="CLOSE_LINK" ctype="x-a" /> 正在申请 <x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__PAYOUTS__PAY_ACTION">
+        <source>Pay</source>
+        <target>支付</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__TAGCLOUD__HELP_LABEL">
+        <source>This is a list of currently trending hashtags. Click the hashtag to see the search results for it. Click on the X next to the tag to hide it. Hidden hashtags won't appear again.</source>
+        <target>此列表为近期的热门标签。点击#话题将查看该话题的全部短推。点击标签旁的X隐藏此标签，已经隐藏的标签将不会再展示</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__TAGCLOUD__GENERATION_TIMESTAMP_LABEL">
+        <source>This list was generated <x id="INTERPOLATION" /> minute(s) ago.</source>
+        <target>最后更新时间 <x id="INTERPOLATION" /> 分钟以前.</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__TAGCLOUD__LAST_HIDDEN_LABEL">
+        <source>Last <x id="INTERPOLATION" /> hidden tags:</source>
+        <target>最后 <x id="INTERPOLATION" /> 隐藏标签:</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__VERIFY__VERIFY_ACTION">
+        <source>Verify</source>
+        <target>认证</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__SOCIAL_PROFILES__URL_PLACEHOLDER">
+        <source>Social media profile URL</source>
+        <target>个人主页URL</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__SOCIAL_PROFILES__ADD">
+        <source>Add Social Profile</source>
+        <target>添加个人资料</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__BOOST_ROTATOR__EXPLICIT_ITEM_TOOLTIP">
+        <source>By selecting Explicit mode, you acknowledge that you are 18+ years of age and are willing to see graphic content, explicit language, and nudity.</source>
+        <target>如果选择不打码模式，默认您认可已满18岁并同意查看图像内容、脏话以及赤裸信息。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__BOOST_ROTATOR__AUTO_ROTATE_ITEM">
+        <source>Auto-rotate</source>
+        <target>自动滚动</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__BOOST_ROTATOR__AUTO_ROTATE_ITEM_TOOLTIP">
+        <source>This will enable/disable the Boost box on top of your feed from self-rotating.</source>
+        <target>这个可以开启/禁用在我的广场头条推广信息的自动滚动功能</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__BOOST_ROTATOR__HIDE_BOOST_ITEM">
+        <source>Hide Boost</source>
+        <target>隐藏推广</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__BOOST_ROTATOR__SHOW_BOOST_ITEM">
+        <source>Show Boost</source>
+        <target>显示推广</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__BOOST_ROTATOR__BOOST_VISIBILITY_TOOLTIP">
+        <source>Plus users may hide Boosts from their newsfeed.</source>
+        <target>会员用户可以隐藏推广广告</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__BOOST_ROTATOR__BOOST_VISIBILITY_UPGRADE_TOOLTIP">
+        <source>Upgrade to Plus in order to turn off Boost.</source>
+        <target>升级为会员即可关闭推广广告</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__BOOST_ROTATOR__SELECT_CATEGORIES_ITEM">
+        <source>Select Categories</source>
+        <target>选择类别</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__BOOST_ROTATOR__SELECT_CATEGORIES_ITEM_TOOLTIP">
+        <source>Select the categories of content you’d like to see more of</source>
+        <target>选择您更感兴趣的内容类别</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__BOOST_ROTATOR__ABOUT_BOOST">
+        <source>About Boost</source>
+        <target>关于“推广”</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__DISPLAY_NAME_TITLE">
+        <source>Display Name</source>
+        <target>昵称</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__ACCOUNT_PASSWORD_TITLE">
+        <source>Account Password</source>
+        <target>账户密码</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__CURRENT_PASSWORD_LABEL">
+        <source>Current password</source>
+        <target>当前密码</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__NEW_PASSWORD_LABEL">
+        <source>Your new password</source>
+        <target>新密码</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__NEW_PASSWORD_AGAIN_LABEL">
+        <source>Your new password again</source>
+        <target>再输入新密码</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__MATURE_CONTENT_TITLE">
+        <source>Mature Content</source>
+        <target>成人内容</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__MATURE_CONTENT_LABEL">
+        <source>Always show mature content (18+)</source>
+        <target>永久展示18+内容</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__REVOKE_FACEBOOK_ACTION">
+        <source>Revoke Facebook Login</source>
+        <target>取消Facebook登录</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__DISCONNECT_FACEBOOK_ACTION">
+        <source>Disconnect from Facebook</source>
+        <target>断开与Facebook的连接 </target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__CONNECT_FACEBOOK_ACTION">
+        <source>Connect with Facebook</source>
+        <target>连接Facebook </target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__DISCONNECT_TWITTER_ACTION">
+        <source>Disconnect from Twitter</source>
+        <target>断开与Twitter的连接</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__CONNECTED_AS_TWITTER_LABEL">
+        <source>Connected as @<x id="INTERPOLATION" /></source>
+        <target>与 @<x id="INTERPOLATION" />建立连接</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__CONNECT_TWITTER_ACTION">
+        <source>Connect with Twitter</source>
+        <target>连接Twitter</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__CATEGORIES_TITLE">
+        <source>Categories</source>
+        <target>类别</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__DISABLE_CHANNEL">
+        <source>Disable Channel</source>
+        <target>禁用信道</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__DISABLE_CONFIRM">
+        <source>I'm sure - Disable</source>
+        <target>确认 – 禁用</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__2FA_TITLE">
+        <source>Two Factor Authentication</source>
+        <target>双因素认证</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__REMOVE_2FA_ACTION">
+        <source>Remove two factor</source>
+        <target>解除双因素认证</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__SMS_INPUT_HELP">
+        <source>Your SMS number. <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Enter your country code too (eg. +1, +44, etc)<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /></source>
+        <target>您的手机号. <x id="START_BOLD_TEXT" ctype="x-b" />输入国家码 (如: +1, +44，等)<x id="CLOSE_BOLD_TEXT" ctype="x-b" /></target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__SMS_INPUT_LABEL">
+        <source>eg. +44 07999 000909</source>
+        <target>例如: +86 07888 000889</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__SETUP_ACTION">
+        <source>Setup</source>
+        <target>设置</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__SENT_SMS_LABEL">
+        <source>We sent an SMS to <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />. Enter the code below to complete your two factor setup.</source>
+        <target>已发送短信至 <x id="START_BOLD_TEXT" ctype="x-b" /><x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" />. 输入验证码完成双因素认证。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__SENDING_SMS_LABEL">
+        <source>We are sending an SMS to <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />. Enter the code below to complete your two factor</source>
+        <target>已发送短信至 <x id="START_BOLD_TEXT" ctype="x-b" /><x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" />.输入验证码完成双因素认证。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__2FA_RETRY_ACTION">
+        <source>Retry</source>
+        <target>重试</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__PAID_SUBSCRIPTIONS_TITLE">
+        <source>Paid Subscriptions</source>
+        <target>付费订阅</target>
+      </trans-unit>
+      <trans-unit id="ccac601bf473fa28c9ac46794f1cd40542f74347">
+        <source>Message</source>
+        <target>私信</target>
+      </trans-unit>
+      <trans-unit id="COMMON__INFINITE_SCROLL__LOAD_MORE">
+        <source>Click to load more</source>
+        <target>点击加载更多</target>
+      </trans-unit>
+      <trans-unit id="COMMON__INFINITE_SCROLL__NOTHING_MORE">
+        <source>Nothing more to load</source>
+        <target>没有更多信息</target>
+      </trans-unit>
+      <trans-unit id="COMMON__DATE_INPUT__MONTH_LABEL">
+        <source>Month</source>
+        <target>月</target>
+      </trans-unit>
+      <trans-unit id="COMMON__DATE_INPUT__DAY_LABEL">
+        <source>Day</source>
+        <target>日</target>
+      </trans-unit>
+      <trans-unit id="COMMON__DATE_INPUT__YEAR_LABEL">
+        <source>Year</source>
+        <target>年</target>
+      </trans-unit>
+      <trans-unit id="COMMON__READ_MORE__ACTION">
+        <source>Read more</source>
+        <target>查看更多</target>
+      </trans-unit>
+      <trans-unit id="COMMON__BADGES__PLUS">
+        <source>Plus</source>
+        <target>会员</target>
+        <note>Plus as user status</note>
+      </trans-unit>
+      <trans-unit id="COMMON__BADGES__VERIFIED">
+        <source>Verified</source>
+        <target>已认证</target>
+        <note>Verified as user status</note>
+      </trans-unit>
+      <trans-unit id="COMMON__BADGES__FOUNDER">
+        <source>Founder</source>
+        <target>奠基人</target>
+        <note>Founder as user status</note>
+      </trans-unit>
+      <trans-unit id="COMMON__AVATAR__CHANGE">
+        <source>Change avatar</source>
+        <target>更换头像</target>
+      </trans-unit>
+      <trans-unit id="COMMON__AVATAR__ADD">
+        <source>Add an avatar</source>
+        <target>添加头像</target>
+      </trans-unit>
+      <trans-unit id="COMMON__CAPTCHA__SIMPLE_SUM">
+        <source>What is <x id="INTERPOLATION" /> <x id="INTERPOLATION_1" /> <x id="INTERPOLATION_2" />?</source>
+        <target>什么是<x id="INTERPOLATION" /> <x id="INTERPOLATION_1" /> <x id="INTERPOLATION_2" />?</target>
+        <note>A sum (eg. 2 + 2)</note>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__BOOST_TYPE_TITLE">
+        <source>Boost Type</source>
+        <target>推广类型</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__NEWSFEEDS_SELECTOR_DESC">
+        <source>Your content will appear on newsfeeds across the site.</source>
+        <target>您的推广将会在全站的广场进行展示</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__SIDEBARS_SELECTOR_DESC">
+        <source>Your content will display on the sidebars throughout the site.</source>
+        <target>您的内容将在广场的侧边栏进行展示</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__BID_TITLE">
+        <source>How many views do you want?</source>
+        <target>期望浏览量?</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__OFFER_TITLE">
+        <source>What's your offer?</source>
+        <target>意愿支付?</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__VIEWS_INPUT_LABEL">
+        <source>views</source>
+        <target>浏览量</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__TARGET_TITLE">
+        <source>Target</source>
+        <target>目标</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__TARGET_TITLE_CTX">
+        <source>Search for the channel you want to boost to.</source>
+        <target>搜索想要推广的频道</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__PRIORITY_TITLE">
+        <source>Priority</source>
+        <target>优先级</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__PRIORITY_TITLE_CTX">
+        <source>Priority content goes to the front of the line, but costs at least twice the price of a regular boost.</source>
+        <target>优先信息排在前面，但需要至少比普通推广费多一倍</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__USD_PRIORITY_FEE">
+        <source>+ <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" /><x id="INTERPOLATION" /> USD<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /></source>
+        <target>+ <x id="START_BOLD_TEXT" ctype="x-b" /><x id="INTERPOLATION" /> 美元<x id="CLOSE_BOLD_TEXT" ctype="x-b" /></target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__TARGET_INPUT_PLACEHOLDER">
+        <source>@channel</source>
+        <target>@频道</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__POST_TO_FACEBOOK_LABEL">
+        <source>Post to <x id="INTERPOLATION" /></source>
+        <target>发布到 <x id="INTERPOLATION" /></target>
+        <note>Post to [page]</note>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__BOOSTED_LABEL">
+        <source>Boosted!</source>
+        <target>已推广！</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CARDS__ACTIVITY__BOOSTED_LABEL">
+        <source>Boosted</source>
+        <target>已推广</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CARDS__ACTIVITY__BOOST_NOTICE">
+        <source>Boost this post to reach more people!</source>
+        <target>推广这条短推触达更多用户!</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CARDS__ACTIVITY__PINNED_POST">
+        <source>This post is pinned</source>
+        <target>短推已置顶</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CARDS__ACTIVITY__CLICK_TO_PIN">
+        <source>Click to pin this post to the top of your channel feed</source>
+        <target>点击将此短推置顶</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CARDS__ACTIVITY__AWAITING_MODERATION">
+        <source>This post is awaiting moderation.</source>
+        <target>这篇短推待修改。</target>
+      </trans-unit>
+      <trans-unit id="BLOGS__DRAFT_LABEL">
+        <source>Draft</source>
+        <target>草稿箱</target>
+      </trans-unit>
+      <trans-unit id="COMMON__DATE_SELECTOR__PLACEHOLDER">
+        <source>Select a date</source>
+        <target>选择日期</target>
+      </trans-unit>
+      <trans-unit id="COMMON__ADMIN_ACTIONS__MARK_AS_DELETED">
+        <source>Mark as deleted</source>
+        <target>标记为删除</target>
+      </trans-unit>
+      <trans-unit id="COMMON__ADMIN_ACTIONS__UNDELETE">
+        <source>Undelete</source>
+        <target>取消删除</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__OVERVIEW__REVENUE_LABEL">
+        <source>Revenue</source>
+        <target>收入</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__OVERVIEW__REVENUE_TOOLTIP">
+        <source>You earn 25% of all revenue your referrals bring to Minds.</source>
+        <target>您可以赚得您邀请用用户为55 social贡献收入的25%。</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__OVERVIEW__BREAKDOWN_LINK">
+        <source>See Breakdown</source>
+        <target>查看明细</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__OVERVIEW__MONETIZE_ACTION">
+        <source>Monetize now</source>
+        <target>立即通证化</target>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__CARD__NUMBER_LABEL">
+        <source>Card number</source>
+        <target>卡号</target>
+        <note>Credit Card Number</note>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__CARD__AMEX_SELECTOR">
+        <source>Amex</source>
+        <target>Amex</target>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__CARD__VISA_SELECTOR">
+        <source>Visa</source>
+        <target>Visa</target>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__CARD__MASTERCARD_SELECTOR">
+        <source>MasterCard</source>
+        <target>MasterCard</target>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__CARD__MONTH_PLACEHOLDER">
+        <source>mm</source>
+        <target>月份</target>
+        <note>Month</note>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__CARD__YEAR_PLACEHOLDER">
+        <source>yyyy</source>
+        <target>年份</target>
+        <note>Year</note>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__CARD__CVC_LABEL">
+        <source>CVC/Security Code</source>
+        <target>CVC</target>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__CARD__CARDHOLDER_NAME">
+        <source>Card holders name</source>
+        <target>持卡人名称</target>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__CARD__CHECKOUT_TOOLTIP">
+        <source>Your credit card information is safe, secure and PCI compliant.</source>
+        <target>您的信用卡信息将会安全并符合PCI标准级别地保管</target>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__CAPTURING_DETAILS">
+        <source>Capturing card details...</source>
+        <target>正在捕获卡信息...</target>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__WAITING_LABEL">
+        <source>One moment please...</source>
+        <target>请稍后...</target>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__SAVED_CARDS_TITLE">
+        <source>Select a card to use</source>
+        <target>选择银行卡</target>
+      </trans-unit>
+      <trans-unit id="CHECKOUT__USE_NEW_CARD">
+        <source>Use a new card</source>
+        <target>使用新卡</target>
+      </trans-unit>
+      <trans-unit id="ADS__BOOSTED_CONTENT">
+        <source>Boosted content</source>
+        <target>推广信息</target>
+      </trans-unit>
+      <trans-unit id="WALLET__PURCHASE__BUY_ACTION">
+        <source>BUY!</source>
+        <target>购买！</target>
+      </trans-unit>
+      <trans-unit id="WALLET__PURCHASE__RECURRING_10PCT_LABEL">
+        <source>Repeat this transaction every month and get <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />10%<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> more points</source>
+        <target>按月支付将得到<x id="START_BOLD_TEXT" ctype="x-b" />10%<x id="CLOSE_BOLD_TEXT" ctype="x-b" />奖励积分</target>
+      </trans-unit>
+      <trans-unit id="WALLET__PURCHASE__CANCEL_RECURRING_ACTION">
+        <source>Cancel recurring (<x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />$<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /><x id="INTERPOLATION" />)</source>
+        <target>取消定期(<x id="START_ITALIC_TEXT" ctype="x-i" />$<x id="CLOSE_ITALIC_TEXT" ctype="x-i" /><x id="INTERPOLATION" />)</target>
+      </trans-unit>
+      <trans-unit id="WALLET__PURCHASE__COUPON_CODE_LABEL">
+        <source>Coupon code</source>
+        <target>优惠券码</target>
+      </trans-unit>
+      <trans-unit id="WALLET__PURCHASE__COUPON_CODE_TOOLTIP">
+        <source>If you have a discount / coupon code, please apply it here (only for subscriptions)</source>
+        <target>如果您有抵扣券/优惠券码, 请在此处使用(仅支持订阅)</target>
+      </trans-unit>
+      <trans-unit id="WALLET__PURCHASE__SUCCESS_NOTICE">
+        <source>Great, you now have <x id="INTERPOLATION" /> points!</source>
+        <target>恭喜，您已有 <x id="INTERPOLATION" /> 积分!</target>
+      </trans-unit>
+      <trans-unit id="WALLET__PURCHASE__BUY_MORE_ACTION">
+        <source>Click here to BUY more.</source>
+        <target>点击购买更多。</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__INBOX_TAB">
+        <source>Inbox</source>
+        <target>收件箱</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__OUTBOX_TAB">
+        <source>Outbox</source>
+        <target>发件箱</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__WIRE_DESC">
+        <source>Wire allows you to receive money for rewards and exclusive content. You can configure your rewards on your channel page.</source>
+        <target>转账FF 允许您获得现金或专属内容的奖励。您可以在个人主页进行设置。</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__DOB_LABEL">
+        <source>Date of Birth</source>
+        <target>F剩日</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__GENDER_LABEL">
+        <source>Gender</source>
+        <target>性别</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__FEMALE_OPTION">
+        <source>Female</source>
+        <target>女</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__MALE_OPTION">
+        <source>Male</source>
+        <target>男</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__SSN_LAST_4_LABEL">
+        <source>SSN (last 4 digits)</source>
+        <target>SSN (4位尾号)</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__PERSONAL_ID_LABEL">
+        <source>Personal ID</source>
+        <target>身份证</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__CA_PERSONAL_ID_TOOLTIP">
+        <source>Social Insurance Number (SIN).</source>
+        <target>社保账户号(SIN).</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__HK_PERSONAL_ID_TOOLTIP">
+        <source>Hong Kong Identity Card (HKID).</source>
+        <target>香港居民身份证(HKID).</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__SG_PERSONAL_ID_TOOLTIP">
+        <source>National Registration Identity Card (NRIC).</source>
+        <target>国际身份证(护照)</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__PERSONAL_ID_PLACEHOLDER">
+        <source>Personal ID number or code</source>
+        <target>身份证号码</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__ADDRESS_LABEL">
+        <source>Address</source>
+        <target>地址</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__ADDRESS_PLACEHOLDER">
+        <source>House name/number, Street name</source>
+        <target>小区，街道名称</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__CITY_LABEL">
+        <source>City</source>
+        <target>城市</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__CITY_PLACEHOLDER">
+        <source>eg. New York City</source>
+        <target>例如: 北京</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__STATE_PROVINCE_LABEL">
+        <source>State / Province</source>
+        <target>直辖市/省</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__STATE_PROVINCE_PLACEHOLDER">
+        <source>State or province</source>
+        <target>省</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__ZIP_CODE_LABEL">
+        <source>Zip (Postal) Code</source>
+        <target>邮编</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__ZIP_CODE_PLACEHOLDER">
+        <source>eg. 10001</source>
+        <target>例如: 100000</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__PHONE_LABEL">
+        <source>Phone Number</source>
+        <target>手机号</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__PHONE_PLACEHOLDER">
+        <source>eg. 123-456789</source>
+        <target>例如: 13888888888</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__AGREE_TERMS_LABEL">
+        <source>I have read and agree to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />Monetization Terms &amp; Conditions<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />.</source>
+        <target>我已阅读并同意 <x id="START_LINK" ctype="x-a" />通证化的协议与条款<x id="CLOSE_LINK" ctype="x-a" />.</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__ONBOARDING__NEXT_ACTION">
+        <source>Next</source>
+        <target>下一步</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__AFFILIATE__PROGRAM_SUBTITLE">
+        <source>Refer new users to Minds through your referral link, and earn 25% of the revenue they generate.</source>
+        <target>通过您的邀请链接，邀请更多用户来55 social，将赚取他们产生收入的25%。</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__AFFILIATE__COPY_LINK">
+        <source>Copy and share the link above</source>
+        <target>复制并分享</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__AFFILIATE__CLICK_TO_LEARN_MORE">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />Click here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> to find out more about the affiliate program.</source>
+        <target><x id="START_LINK" ctype="x-a" />点击这里<x id="CLOSE_LINK" ctype="x-a" /> 查看更多附属计划。</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__LEDGER__TYPE_COLUMN">
+        <source>Type</source>
+        <target>类型</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__LEDGER__STATUS_COLUMN">
+        <source>Status</source>
+        <target>状态</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__LEDGER__REFUNDED_LABEL">
+        <source>Refunded</source>
+        <target>已退款</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__LEDGER__REFUNDED_TOOLTIP">
+        <source>A refund was issued for this payment. Funds will be deducted from your balance or reclaimed.</source>
+        <target>这笔付款已退款。资金将从您的余额中扣除或收回。</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__LEDGER__DISPUTED_LABEL">
+        <source>Disputed</source>
+        <target>有争议的</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__LEDGER__DISPUTED_TOOLTIP">
+        <source>This payment was disputed by the card holder.</source>
+        <target>持卡人对此付款有异议。</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__OPTIONS__PAYOUT_METHOD_TITLE">
+        <source>Payout Method</source>
+        <target>支付方式 </target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__OPTIONS__BANK_DETAILS_LABEL">
+        <source>Payouts will be sent to the bank account below. If you wish to add a new bank account, you can edit the account information below.</source>
+        <target>付款将发送到下面的银行帐户。如果要添加新的银行帐户，可以在下面编辑帐户信息。</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__OPTIONS__NO_BANK_DETAILS_LABEL">
+        <source>You haven't setup your bank account yet. In order to receive payouts you will need to link your bank account.</source>
+        <target>您尚未设置银行帐户。您需要绑定您的银行帐户来付款。</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__OPTIONS__ENTER_BANK_DETAILS_BELOW_LABEL">
+        <source>Enter your new bank account details below.</source>
+        <target>输入您的新银行帐户详细信息。</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__OPTIONS__ACCOUNT_NUMBER_IBAN_LABEL">
+        <source>Account Number / IBAN</source>
+        <target>银行账号/IBAN号</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__OPTIONS__ROUTING_NUMBER_SORT_CODE_LABEL">
+        <source>Routing Number / Sort Code</source>
+        <target>银行路由号</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__OPTIONS__ADD_ACCOUNT_ACTION">
+        <source>Add account</source>
+        <target>添加账户</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__OPTIONS__APPLY_ACTION">
+        <source>Apply</source>
+        <target>提交</target>
+      </trans-unit>
+      <trans-unit id="MONETIZATION__REVENUE__OPTIONS__CANCEL_MONETIZATION_LABEL">
+        <source>Click below to leave the monetization program. You will <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />not<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> be able to rejoin in the future.</source>
+        <target>点击下面将离开通证计划，您将 <x id="START_BOLD_TEXT" ctype="x-b" />不能<x id="CLOSE_BOLD_TEXT" ctype="x-b" /> 重新加入计划</target>
+      </trans-unit>
+      <trans-unit id="PLUS__SUBSCRIPTION__CURRENTLY_MEMBER">
+        <source>You are a currently a Plus member.</source>
+        <target>您当前已经是会员</target>
+      </trans-unit>
+      <trans-unit id="PLUS__SUBSCRIPTION__CANCEL_PLUS_ACTION">
+        <source>Cancel Plus</source>
+        <target>取消会员</target>
+      </trans-unit>
+      <trans-unit id="PLUS__SUBSCRIPTION__CONGRATULATE_PLUS">
+        <source>Congratulations, you are now a Minds Plus member!</source>
+        <target>恭喜! 您已成为55 social的Plus会员.</target>
+      </trans-unit>
+      <trans-unit id="PLUS__VERIFY__LINKS_INPUT_LABEL">
+        <source>Please enter two social media links, which link back to your Minds channel page</source>
+        <target>请输入两个社交媒体链接，链接回您的55 social个人主页 </target>
+      </trans-unit>
+      <trans-unit id="PLUS__VERIFY__DESCRIPTION_LABEL">
+        <source>Please give a brief statement as to why you should be verified</source>
+        <target>请简要说明认证你的原因 </target>
+      </trans-unit>
+      <trans-unit id="PLUS__VERIFY__SUBMIT_ACTION">
+        <source>Submit</source>
+        <target>提交</target>
+      </trans-unit>
+      <trans-unit id="THIRD_PARTY_NETWORKS__FACEBOOK__DETACH_PAGE_ACTION">
+        <source>Detach page</source>
+        <target>分页</target>
+      </trans-unit>
+      <trans-unit id="THIRD_PARTY_NETWORKS__FACEBOOK__LINK_BOOST">
+        <source>Link your boosts to facebook</source>
+        <target>将你的推广广告链接到Facebook</target>
+      </trans-unit>
+      <trans-unit id="THIRD_PARTY_NETWORKS__FACEBOOK__SELECT_PAGE_LABEL">
+        <source>Select a page to link below</source>
+        <target>选择需要链接到的页面</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__LIST__EMPTY_BOOSTS">
+        <source>You have no boosted posts. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" /> Create one<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
+        <target>您没有推广信息</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__LIST__EMPTY_P2P_BOOSTS">
+        <source>You have no boosts in your <x id="INTERPOLATION" />.</source>
+        <target>您没有推广内容在您<x id="INTERPOLATION" />.</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__CARD__USD_VALUE">
+        <source><x id="INTERPOLATION" /> USD</source>
+        <target><x id="INTERPOLATION" /> USD</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__CARD__REVOKE_ACTION">
+        <source>Revoke</source>
+        <target>撤销</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__CARD__PREVIOUS_REJECTION">
+        <source>Your boost was rejected: <x id="INTERPOLATION" /></source>
+        <target>您的推广已被拒绝，原因: <x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__BOOSTER__CTA">
+        <source>Boosting guarantees more views on your posts and content.</source>
+        <target>推广功能可以保证您的文章和内容有更多的浏览量。</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__BOOSTER__YOUR_CHANNEL_TITLE">
+        <source>Your channel</source>
+        <target>你的频道</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__BOOSTER__YOUR_RECENT_MEDIA_TITLE">
+        <source>Your recent media</source>
+        <target>您的多媒体文件</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__TABLE__REWARD_PLACEHOLDER">
+        <source>Describe the reward</source>
+        <target>奖励描述</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__TABLE__ADD_REWARD_ACTION">
+        <source>Add Reward</source>
+        <target>添加奖励</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__OVERVIEW__WIRES_CARD_TOOLTIP">
+        <source>How many wires <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />@<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /><x id="INTERPOLATION" /> has received in the last 30 days</source>
+        <target>过去30天<x id="START_TAG_SPAN" ctype="x-span" />@<x id="CLOSE_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /> 收到了FF</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__OVERVIEW__POINTS_CARD_TOOLTIP">
+        <source>This is <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />@<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /><x id="INTERPOLATION" />'s total volume (gross) of all Token wires received in the last 30 days</source>
+        <target>这是<x id="START_TAG_SPAN" ctype="x-span" />@<x id="CLOSE_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" />近30天收到的总FF token数量</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__OVERVIEW__BREAKDOWN_LINK">
+        <source>See breakdown</source>
+        <target>查看明细</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__OVERVIEW__BREAKDOWN_LINK_TOOLTIP">
+        <source>See a breakdown of all your Wires in your wallet</source>
+        <target>查看我的钱包明细</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__OVERVIEW__YOU_SENT_CARD_LABEL">
+        <source>You Sent</source>
+        <target>我的转出</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CHANNEL__OVERVIEW__YOU_SENT_CARD_TOOLTIP">
+        <source>This is the amount you have wired to <x id="INTERPOLATION" /> in the last 30 days</source>
+        <target>过去30天转给 <x id="INTERPOLATION" />FF</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CREATOR__REWARDS__TITLE">
+        <source><x id="INTERPOLATION" />'s rewards</source>
+        <target><x id="INTERPOLATION" />的奖励</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CREATOR__REWARDS__YOU_SENT_LABEL">
+        <source>You have sent</source>
+        <target>我已转出</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CREATOR__REWARDS__IN_THE_LAST_MONTH">
+        <source>in the last month.</source>
+        <target>过去一个月</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__LEDGER__SENT_TAB">
+        <source>Sent</source>
+        <target>已转</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__LEDGER__RECEIVED_TAB">
+        <source>Received</source>
+        <target>我的收到</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__LEDGER__CHANNEL_COLUMN">
+        <source>Channel</source>
+        <target>频道</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__LEDGER__AMOUNT_USD_CELL_VALUE">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />$<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /><x id="INTERPOLATION" /></source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" />$<x id="CLOSE_ITALIC_TEXT" ctype="x-i" /><x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__LEDGER__NO_WIRES_NOTICE">
+        <source>No Wires to show.</source>
+        <target>没有转账记录</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__SUPPORTER__THIS_MONTH">
+        <source>this month</source>
+        <target>本月</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__SETTINGS__PREVIEW_DESC">
+        <source>The below description and preview image is what your subscribers will see on your exclusive posts until they become a supporter.</source>
+        <target>下面的描述和预览图片是您的订阅者在成为粉丝之前在您的独家帖子上看到的内容。</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__SETTINGS__DESCRIPTION_LABEL">
+        <source>Description</source>
+        <target>描述</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__SETTINGS__DESCRIPTION_PLACEHOLDER">
+        <source>eg. Support me to see my exclusive content and join me for a monthly video chat</source>
+        <target>例如: 粉我并查看我的独家内容并加入我每月的视频聊天 </target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__SETTINGS__BACKGROUND_LABEL">
+        <source>Background</source>
+        <target>背景</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__SETTINGS__PREVIEW_LABEL">
+        <source>Preview</source>
+        <target>预览</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__SETTINGS__SAVING_LABEL">
+        <source>Saving…</source>
+        <target>保存中...</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__ONLY_SUPPORTERS_TITLE_PART">
+        <source>Only supporters who wire you over</source>
+        <target>仅转账给我的粉丝</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__USD_PER_MONTH">
+        <source><x id="INTERPOLATION" />/month</source>
+        <target><x id="INTERPOLATION" />/月</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__POINTS_PER_MONTH">
+        <source><x id="INTERPOLATION" /> points/month</source>
+        <target><x id="INTERPOLATION" /> 积分/月</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__WILL_SEE_TITLE_PART">
+        <source>will see this post.</source>
+        <target>将看到这篇短推</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__LOCKED_LABEL">
+        <source>Locked</source>
+        <target>已锁定</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__WIRE_ME_OVER_PART">
+        <source>Wire me over</source>
+        <target>转账超过</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__TO_SEE_TITLE_PART">
+        <source>to see this post.</source>
+        <target>给我来查看这篇短推</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__UNLOCK_ACTION">
+        <source>Unlock</source>
+        <target>解锁</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__CAN_ONLY_BE_SEEN_TITLE_PART">
+        <source>This post can only be seen by supporters who wire</source>
+        <target>这篇短推仅可以被装置给我的粉丝查看</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__OVER_USD_PER_MONTH">
+        <source>over <x id="INTERPOLATION" />/month</source>
+        <target>大于<x id="INTERPOLATION" />/月</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__OVER_POINTS_PER_MONTH">
+        <source>over <x id="INTERPOLATION" /> points/month</source>
+        <target>大于<x id="INTERPOLATION" /> 积分/月</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__TO_USERNAME_PART">
+        <source>to @<x id="INTERPOLATION" /></source>
+        <target>至 @<x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__OVERVIEW__MONEY_WIRES_TOOLTIP">
+        <source>The total wires you have received</source>
+        <target>收入的总转账数</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__OVERVIEW__MONEY_EARNINGS_TOOLTIP">
+        <source>The total in USD you have earned</source>
+        <target>折算为美元约赚</target>
+      </trans-unit>
+      <trans-unit id="TRANSLATE__TO_LABEL">
+        <source>Translate to:</source>
+        <target>翻译成:</target>
+      </trans-unit>
+      <trans-unit id="TRANSLATE__LANGUAGE_PLACEHOLDER">
+        <source>Language…</source>
+        <target>语言...</target>
+      </trans-unit>
+      <trans-unit id="TRANSLATE__PREFERRED_LANGUAGES_LABEL">
+        <source>Preferred Languages</source>
+        <target>首选语言</target>
+      </trans-unit>
+      <trans-unit id="TRANSLATE__TRANSLATING_LABEL">
+        <source>Translating</source>
+        <target>翻译中</target>
+      </trans-unit>
+      <trans-unit id="TRANSLATE__TRANSLATING_TO_PART">
+        <source>to <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /></source>
+        <target>成 <x id="START_BOLD_TEXT" ctype="x-b" /><x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" /></target>
+        <note>Translation target</note>
+      </trans-unit>
+      <trans-unit id="TRANSLATE__TRANSLATED_LABEL">
+        <source>Translated</source>
+        <target>已翻译</target>
+      </trans-unit>
+      <trans-unit id="TRANSLATE__TRANSLATED_FROM_PART">
+        <source>from <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /></source>
+        <target>从 <x id="START_BOLD_TEXT" ctype="x-b" /><x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" /></target>
+        <note>Translation source</note>
+      </trans-unit>
+      <trans-unit id="TRANSLATE__HIDE_TRANSLATION_ACTION">
+        <source>Hide translation</source>
+        <target>隐藏翻译</target>
+      </trans-unit>
+      <trans-unit id="TRANSLATE__CHANGE_LANGUAGE_ACTION">
+        <source>Change language</source>
+        <target>更改语言</target>
+      </trans-unit>
+      <trans-unit id="TRANSLATE__ERROR_TRANSLATING_LABEL">
+        <source>There was an error when translating this content.</source>
+        <target>翻译遇到问题</target>
+      </trans-unit>
+      <trans-unit id="TRANSLATE__DISMISS_ACTION">
+        <source>Dismiss</source>
+        <target>解除</target>
+      </trans-unit>
+      <trans-unit id="FORMS__LOGIN__FORGOT_PASSWORD_LINK">
+        <source>Forgot Password?</source>
+        <target>忘记密码？</target>
+      </trans-unit>
+      <trans-unit id="FORMS__LOGIN__2FA_LOGIN_TITLE">
+        <source>Twofactor Login</source>
+        <target>双因素登录</target>
+      </trans-unit>
+      <trans-unit id="FORMS__LOGIN__2FA_LOGIN_SMS_SENT">
+        <source>We just sent you a text. Enter the code below to authenticate.</source>
+        <target>短信验证码已发送，输入后进行身份验证。</target>
+      </trans-unit>
+      <trans-unit id="FORMS__REGISTER__EMAIL_PLACEHOLDER">
+        <source>Email</source>
+        <target>邮箱</target>
+        <note>email placeholder</note>
+      </trans-unit>
+      <trans-unit id="FORMS__REGISTER__CONFIRM_PASSWORD_PLACEHOLDER">
+        <source>Confirm your password</source>
+        <target>确认密码</target>
+      </trans-unit>
+      <trans-unit id="FORMS__REGISTER__SIGNUP_ACTION">
+        <source>Signup</source>
+        <target>注册</target>
+      </trans-unit>
+      <trans-unit id="FORMS__REGISTER__TOS_ACCEPTANCE_LABEL">
+        <source>I accept the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" /> Terms &amp; Conditions <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
+        <target>我同意用户协议与条款</target>
+      </trans-unit>
+      <trans-unit id="FORMS__FB_REGISTER__USERNAME_LABEL">
+        <source>Pick a username</source>
+        <target>选择用户名</target>
+      </trans-unit>
+      <trans-unit id="FORMS__FB_REGISTER__USERNAME_PLACEHOLDER">
+        <source>Username (eg. @me)</source>
+        <target>用户名(例如: @me)</target>
+      </trans-unit>
+      <trans-unit id="FORMS__ONBOARDING__AVATAR_LABEL">
+        <source>Avatar</source>
+        <target>头像</target>
+      </trans-unit>
+      <trans-unit id="FORMS__CATEGORIES_SELECTOR__INTEREST_TITLE">
+        <source>What are you interested in?</source>
+        <target>您感兴趣的是？</target>
+      </trans-unit>
+      <trans-unit id="FORMS__CATEGORIES_SELECTOR__INTEREST_DESC">
+        <source>Select from the categories below so we can show you great content</source>
+        <target>从下面的类别中进行选择，以便我们向您展示精彩的内容</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__EARN_POINTS">
+        <source>Earn points for using the app</source>
+        <target>使用APP赢取积分</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__EXCHANGE_POINTS">
+        <source>Exchange your points for views on your content</source>
+        <target>用你的积分换取更多的浏览量</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__MONETIZE_YOUR_CHANNEL">
+        <source>Monetize your channel</source>
+        <target>通证化我的频道</target>
+        <note>tutorial</note>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__E2E_ENCRYPTION">
+        <source>Protect your privacy with end-to-end encryption</source>
+        <target>点对点转账时保护我的隐私</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__FIND_PEOPLE">
+        <source>Find people in cities around the world with geo-discovery</source>
+        <target>使用定位功能查找在世界各地的人 </target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__EXPAND_YOUR_AUDIENCE">
+        <source>Expand your audience and subscribers</source>
+        <target>扩大受众和粉丝</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__GROUPS">
+        <source>Create open and closed groups</source>
+        <target>创建和关闭群组</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__SEARCH">
+        <source>Search and create videos, images, blogs</source>
+        <target>查找视频、图片或博客</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__EXPRESS_YOURSELF">
+        <source>Express yourself freely without censorship</source>
+        <target>在没有审查的情况下自由表达自己</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__REWARDS">
+        <source>Rewards</source>
+        <target>奖励</target>
+        <note>general rewards</note>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__POST_TEXT_ACTIVITY">
+        <source>Post a text/link activity</source>
+        <target>发布文本/链接活动</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__GET_COMMENTED">
+        <source>Get commented on</source>
+        <target>得到评论</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__BE_SUBSCRIBED">
+        <source>Be subscribed to</source>
+        <target>被关注</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__GET_VOTED_UP">
+        <source>Get voted up</source>
+        <target>被点赞</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__GET_REMINDED">
+        <source>Get reminded</source>
+        <target>被提醒</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__POST_RICH_ACTIVITY">
+        <source>Post a rich media activity</source>
+        <target>发布一个富媒体活动</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__PUBLISH_BLOG">
+        <source>Publish a blog</source>
+        <target>发布博客</target>
+      </trans-unit>
+      <trans-unit id="FORMS__TUTORIAL__HOURLY_REWARD">
+        <source>Hourly</source>
+        <target>没小时</target>
+      </trans-unit>
+      <trans-unit id="MODALS__INVITE__DESCRIPTION">
+        <source>Send the link below to your friends:</source>
+        <target>将下面链接发送给您的好友</target>
+      </trans-unit>
+      <trans-unit id="MODALS__REMIND_COMPOSER__REMIND_TITLE">
+        <source>Remind</source>
+        <target>提醒</target>
+      </trans-unit>
+      <trans-unit id="MODALS__REMIND_COMPOSER__PLACEHOLDER">
+        <source>Enter your remind status here (optional)</source>
+        <target>在此处填写提醒状态(选填)</target>
+      </trans-unit>
+      <trans-unit id="MODALS__SHARE__ON_FACEBOOK">
+        <source>Share on Facebook</source>
+        <target>分享到Facebook</target>
+      </trans-unit>
+      <trans-unit id="MODALS__SHARE__ON_TWITTER">
+        <source>Share on Twitter</source>
+        <target>分享到Twitter</target>
+      </trans-unit>
+      <trans-unit id="MODALS__SIGNUP__ON_ACTION_SUBTITLE">
+        <source>You need to have a channel in order to <x id="INTERPOLATION" /></source>
+        <target>你需要有一个频道因为<x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="MODALS__SIGNUP__SUBTITLE">
+        <source>An open-source, community-owned <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />social network<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> providing tools for revenue, reach, privacy and Internet freedom.</source>
+        <target>一个<x id="START_BOLD_TEXT" ctype="x-b" />开源的<x id="CLOSE_BOLD_TEXT" ctype="x-b" /> 社群，提供赚取收入、接触、隐私和互联网自由的工具。</target>
+      </trans-unit>
+      <trans-unit id="MODALS__SIGNUP__WITH_FACEBOOK">
+        <source>Signin with Facebook</source>
+        <target>Facebook登录</target>
+      </trans-unit>
+      <trans-unit id="MODALS__SIGNUP__WITH_MINDS">
+        <source>Signin with Minds</source>
+        <target>55账号登录</target>
+      </trans-unit>
+      <trans-unit id="MODALS__SIGNUP__ANDROID_APP_ALT">
+        <source>Android app on Google Play</source>
+        <target>安卓APP在谷歌商城</target>
+      </trans-unit>
+      <trans-unit id="MODALS__SIGNUP__MAYBE_LATER">
+        <source>Maybe later</source>
+        <target>下回再说</target>
+      </trans-unit>
+      <trans-unit id="MODALS__SIGNUP__ALREADY_HAVE_CHANNEL">
+        <source>Already have a channel? Click here.</source>
+        <target>已有频道？点击这里</target>
+      </trans-unit>
+      <trans-unit id="PAYMENTS__PAYWALL__EXCLUSIVE_DESC">
+        <source>Only paid subscribers can see this post</source>
+        <target>仅付费粉丝可以查看这篇短推</target>
+      </trans-unit>
+      <trans-unit id="PAYMENTS__PAYWALL__VIEW_ACTION">
+        <source>View</source>
+        <target>查看</target>
+      </trans-unit>
+      <trans-unit id="PAYMENTS__PAYWALL__SUPPORTERS_ONLY">
+        <source>This post is only available to supporters.</source>
+        <target>这篇短推仅支持者可见</target>
+      </trans-unit>
+      <trans-unit id="PAYMENTS__PAYWALL__USD_PER_MONTH">
+        <source>$ <x id="INTERPOLATION" /> / month</source>
+        <target>$ <x id="INTERPOLATION" /> / 月</target>
+      </trans-unit>
+      <trans-unit id="PAYMENTS__PAYWALL_CANCEL__ACTION">
+        <source>Cancel Subscription</source>
+        <target>取消订阅</target>
+      </trans-unit>
+      <trans-unit id="REPORT__CREATOR__REPORT_NOTE_PLACEHOLDER">
+        <source>Please explain why you think this content should not be on Minds.</source>
+        <target>请解释为什么你认为这个内容不应该出现在55 social。</target>
+      </trans-unit>
+      <trans-unit id="REPORT__CREATOR__DMCA_NOTICE">
+        <source>Please submit a DMCA notice to copyright@minds.com.</source>
+        <target>请向servie@55.com提交DMCA通知。</target>
+      </trans-unit>
+      <trans-unit id="REPORT__CREATOR__SUBMIT_ACTION">
+        <source>SUBMIT</source>
+        <target>提交</target>
+      </trans-unit>
+      <trans-unit id="REPORT__CREATOR__NEXT_ACTION">
+        <source>NEXT</source>
+        <target>下一步</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CARDS__COMMENT__PRESS_ESC_TO_CANCEL">
+        <source>Press ESC to cancel</source>
+        <target>点击ESC取消</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__FEATURE__CATEGORY_PLACEHOLDER">
+        <source>-- SELECT A CATEGORY --</source>
+        <target>-- 选择类别 --</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__USER_DROPDOWN__BLOCK">
+        <source>Block @<x id="INTERPOLATION" /></source>
+        <target>屏蔽 @<x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__USER_DROPDOWN__UNBLOCK">
+        <source>Un-Block @<x id="INTERPOLATION" /></source>
+        <target>取消屏蔽 @<x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__USER_DROPDOWN__UNSUBSCRIBE">
+        <source>Unsubscribe</source>
+        <target>取消关注</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__USER_DROPDOWN__BAN_GLOBALLY">
+        <source>Ban globally</source>
+        <target>全球禁</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__USER_DROPDOWN__UNBAN_GLOBALLY">
+        <source>Un-ban globally</source>
+        <target>全球解禁</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__USER_DROPDOWN__BAN_FROM_MONETIZATION">
+        <source>Ban from Monetization</source>
+        <target>禁止通证化</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__USER_DROPDOWN__UNBAN_FROM_MONETIZATION">
+        <source>Un-ban from Monetization</source>
+        <target>解除禁制通证化</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__USER_DROPDOWN__BAN_USER_CONFIRM_MESSAGE">
+        <source>Are you sure you want to ban this user?<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /> This will close all open sessions and lock him/her out from Minds.</source>
+        <target>确认禁用该用户？<x id="LINE_BREAK" ctype="lb" /><x id="LINE_BREAK" ctype="lb" /> 这将禁止该用户在55 social的任何会话。</target>
+        <note>lock him out from Minds as in "ban him completely and delete his account"?</note>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__USER_DROPDOWN__BAN_USER_SUCCESS_MESSAGE">
+        <source>User has been banned.</source>
+        <target>用户已禁用</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__USER_DROPDOWN__BAN_MONETIZATION_CONFIRM_MESSAGE">
+        <source>Are you sure you want to ban this user from monetization?<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /> This will close all open sessions and decline pending payments.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /> There's no UNDO. This will NOT ban the user from Minds.</source>
+        <target>确认禁用该用户通证化？<x id="LINE_BREAK" ctype="lb" /><x id="LINE_BREAK" ctype="lb" />这将禁止该用户所会话并拒绝待定付款。<x id="LINE_BREAK" ctype="lb" /> 无法撤消。这不会禁止用户使用55 social其他功能。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__USER_DROPDOWN__BAN_MONETIZATION_SUCCESS_MESSAGE">
+        <source>User has been banned from monetization.</source>
+        <target>已禁止该用户通证化。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BANNER__ADD_NEW_BANNER">
+        <source>Click here to add a new banner</source>
+        <target>点击此处添加新的轮播图</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SOCIAL_ICONS__LINKEDIN">
+        <source>LinkedIn</source>
+        <target>LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SOCIAL_ICONS__GOOGLE_PLUS">
+        <source>Google Plus</source>
+        <target>Google Plus</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SOCIAL_ICONS__EMBED_CODE">
+        <source>Embeddable code</source>
+        <target>可植入代码</target>
+      </trans-unit>
+      <trans-unit id="MINDS__COMMENTS__LOADING_ELLIPSIS">
+        <source>Loading…</source>
+        <target>加载中...</target>
+      </trans-unit>
+      <trans-unit id="MINDS__COMMENTS__LOAD_ACTION">
+        <source>Load</source>
+        <target>加载</target>
+      </trans-unit>
+      <trans-unit id="MINDS__COMMENTS__TRY_AGAIN_ACTION">
+        <source>Try again</source>
+        <target>重试</target>
+      </trans-unit>
+      <trans-unit id="MINDS__COMMENTS__LOAD_EARLIER_ACTION">
+        <source>Load earlier</source>
+        <target>稍后加载</target>
+      </trans-unit>
+      <trans-unit id="MINDS__COMMENTS__START_CONVERSATION">
+        <source>Start the conversation!</source>
+        <target>开始对话吧!</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__UNFEATURE">
+        <source>un-Feature</source>
+        <target>去特征化</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__MONETIZE">
+        <source>Monetize</source>
+        <target>通证化</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__UNMONETIZE">
+        <source>un-Monetize</source>
+        <target>去通证化</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__UNSUBSCRIBE">
+        <source>Unsubscribe</source>
+        <target>取消关注</target>
+        <note>There's a mistake in the English version here, not sure if that matters though...</note>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__SET_AS_EXPLICIT">
+        <source>Set as Explicit</source>
+        <target>设置为打码</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__REMOVE_EXPLICIT">
+        <source>Remove Explicit</source>
+        <target>取消打码</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__DELETE_MODAL_MESSAGE">
+        <source>Are you sure you want to delete this post? There's no UNDO.</source>
+        <target>确认删除这篇短推吗？该动作无法撤销。</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__DELETE_MODAL_ATTACHMENT_MESSAGE">
+        <source>This action will also delete the attached media from your gallery.</source>
+        <target>这个操作将会同时删除您上传的多媒体文件</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__DELETE_CONFIRMATION_MESSAGE">
+        <source>The post has been deleted.</source>
+        <target>短推已删除</target>
+      </trans-unit>
+      <trans-unit id="REPORT__CONSOLE__APPEALED_TAB">
+        <source>Appealed</source>
+        <target>已申述</target>
+      </trans-unit>
+      <trans-unit id="REPORT__CONSOLE__REASON_LABEL">
+        <source>The following post has been <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> because it <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" /><x id="INTERPOLATION_1" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />.</source>
+        <target>下面这篇短推已经被 <x id="START_BOLD_TEXT" ctype="x-b" /><x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" /> 因为<x id="START_BOLD_TEXT" ctype="x-b" /><x id="INTERPOLATION_1" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" />.</target>
+      </trans-unit>
+      <trans-unit id="REPORT__CONSOLE__APPEAL_ACTION">
+        <source>Appeal</source>
+        <target>申述</target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__BILLING__SAVED_CARDS__TITLE">
+        <source>Payment Methods</source>
+        <target>支付方式</target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__BILLING__SAVED_CARDS__ADD_NEW_CARD_LABEL">
+        <source>Add a new card</source>
+        <target>添加银行卡</target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__BILLING__SAVED_CARDS__ADD_ACTION">
+        <source>ADD</source>
+        <target>添加</target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__SUBSCRIPTIONS__TITLE">
+        <source>Recurring Payments</source>
+        <target>自动续费</target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__NAVIGATION__GENERAL_NAV">
+        <source>General</source>
+        <target>大体</target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__NAVIGATION__DISABLE_NAV">
+        <source>Deactivate Channel</source>
+        <target>停用该频道</target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__NAVIGATION__2FA_NAV">
+        <source>TwoFactor Authentication</source>
+        <target>双因素认证</target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__NAVIGATION__BILLINGS_NAV">
+        <source>Billing</source>
+        <target>账单</target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__NAVIGATION__REPORTED_CONTENT_NAV">
+        <source>Reported Content</source>
+        <target>被举报内容</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ONBOARDING__CHANNEL_TEXT">
+        <source>Design Your Channel</source>
+        <target>装扮自己的频道</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ONBOARDING__CHANNEL_SUBTEXT">
+        <source>Setup your avatar, banner, personal bio and more</source>
+        <target>设置头像、背景图、个人资料以及更多</target>
+        <note>Just in case, set-up (or setup) is a noun, the verb is spelt set up with a space. Recurring mistake here.</note>
+      </trans-unit>
+      <trans-unit id="MINDS__ONBOARDING__SUBSCRIBE_TEXT">
+        <source>Subscribe to channels</source>
+        <target>关于某些频道</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ONBOARDING__SUBSCRIBE_SUBTEXT">
+        <source>Click here to find the content you love to fill your newsfeed</source>
+        <target>单击此处查找您喜欢的内容以填充信息流</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATIONS__ALL_FILTER">
+        <source>All</source>
+        <target>全部</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATIONS__TAGS_FILTER">
+        <source>tags</source>
+        <target>标签</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATIONS__COMMENTS_FILTER">
+        <source>Comments</source>
+        <target>评论</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATIONS__VOTES_FILTER">
+        <source>Votes</source>
+        <target>点赞</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATIONS__REMINDS_FILTER">
+        <source>Reminds</source>
+        <target>提醒</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__FLYOUT__VIEW_ALL_ACTION">
+        <source>View all</source>
+        <target>查看全部</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__FRIENDS_MATCH">
+        <source>You have a match! <x id="INTERPOLATION" /> subscribed to you</source>
+        <target>您有一个匹配！<x id="INTERPOLATION" /> 关注你了</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__FRIENDS">
+        <source><x id="INTERPOLATION" /> subscribed to you</source>
+        <target><x id="INTERPOLATION" /> 关注你</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__GROUP_INVITE">
+        <source><x id="INTERPOLATION" /> invited you to join <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" /> 邀请您加入<x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__GROUP_KICK">
+        <source>You were kicked off from <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target>你被移除，从 <x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__GROUP_ACTIVITY">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> posted in <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /> 发布到<x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__GROUP_QUEUE_ADD">
+        <source>Your post for <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> is awaiting approval from group administrators.</source>
+        <target>您的短推正在 <x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /> 等待群管理员的审核中。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__GROUP_QUEUE_APPROVE">
+        <source>Your post for <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> was approved.</source>
+        <target>您的短推 <x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /> 已通过审核。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__GROUP_QUEUE_REJECT">
+        <source>Your post for <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> was rejected.</source>
+        <target>您的短推关于 <x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /> 被拒绝了。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__COMMENT_ACTIVITY_OWN">
+        <source><x id="INTERPOLATION" /> commented on <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />your activity<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" /> 评论 <x id="START_TAG_SPAN" ctype="x-span" />你的活动<x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__COMMENT_ACTIVITY_OTHER">
+        <source><x id="INTERPOLATION" /> commented on <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION_1" />'s activity<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" /> 评论 <x id="START_TAG_SPAN" ctype="x-span" />的活动 <x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__COMMENTED_ON">
+        <source><x id="INTERPOLATION" /> commented on</source>
+        <target><x id="INTERPOLATION" /> 评论</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__OTHER_OBJECT">
+        <source><x id="INTERPOLATION" />'s <x id="INTERPOLATION_1" /></source>
+        <target><x id="INTERPOLATION_1" /> 的 <x id="INTERPOLATION" /></target>
+        <note>object belonging to user</note>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__OWN_OBJECT">
+        <source>your <x id="INTERPOLATION" /></source>
+        <target>你的 <x id="INTERPOLATION" /></target>
+        <note>object belonging to current user</note>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__ERROR_VIEWING">
+        <source>There was an error viewing this notification.</source>
+        <target>Hubo un error al ver esta notificación.</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__LIKE__VOTED_UP_OBJECT">
+        <source><x id="INTERPOLATION" /> voted up</source>
+        <target><x id="INTERPOLATION" /> 点赞</target>
+        <note>Is this past simple or past participle?</note>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__LIKE__VOTED_UP_ACTIVITY">
+        <source><x id="INTERPOLATION" /> voted up <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" /> 点赞<x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__LIKE__VOTED_UP_OWN_ACTIVITY">
+        <source><x id="INTERPOLATION" /> voted up <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />your activity<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" /> 点赞了<x id="START_TAG_SPAN" ctype="x-span" />你的活动<x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__LIKE__VOTED_UP_COMMENT">
+        <source><x id="INTERPOLATION" /> voted up <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /> your comment <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" />点赞了<x id="START_TAG_SPAN" ctype="x-span" /> 你的评论 <x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__LIKE__VOTED_UP_CONVERSATION">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> voted up your message in <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />'s conversation</source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /> 的聊天中点赞了你的消息<x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__POST_DELETED">
+        <source>This post was deleted.</source>
+        <target>这篇短推已删除</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__DOWNVOTE__VOTED_DOWN_OBJECT">
+        <source><x id="INTERPOLATION" /> down voted</source>
+        <target><x id="INTERPOLATION" /> 踩</target>
+        <note>Is this past simple or past participle?</note>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__DOWNVOTE__VOTED_DOWN_ACTIVITY">
+        <source><x id="INTERPOLATION" /> down voted <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" /> 踩了<x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__DOWNVOTE__VOTED_DOWN_OWN_ACTIVITY">
+        <source><x id="INTERPOLATION" /> down voted <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />your activity<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" /> 踩了 <x id="START_TAG_SPAN" ctype="x-span" />你的活动<x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__DOWNVOTE__VOTED_DOWN_COMMENT">
+        <source><x id="INTERPOLATION" /> down voted <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /> your comment <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" />踩了<x id="START_TAG_SPAN" ctype="x-span" /> 你的评论 <x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__DOWNVOTE__VOTED_DOWN_CONVERSATION">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> down voted your message in <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />'s conversation</source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /> 的聊天中踩了你的信息<x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__REMIND__REMINDED">
+        <source><x id="INTERPOLATION" /> reminded</source>
+        <target><x id="INTERPOLATION" /> 已提醒</target>
+        <note>Is this past simple or past participle?</note>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__REMIND__REMINDED_ACTIVITY">
+        <source><x id="INTERPOLATION" /> reminded <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" /> 已提醒 <x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__REMIND__REMINDED_OWN_ACTIVITY">
+        <source><x id="INTERPOLATION" /> reminded <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />your activity<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" /> 已提醒 <x id="START_TAG_SPAN" ctype="x-span" />你的活动<x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__FEATURE">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> was featured</source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" />被标记为特色了</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__TAG__IN_A_POST">
+        <source><x id="INTERPOLATION" /> tagged you in a post</source>
+        <target><x id="INTERPOLATION" /> 在你的短推里标记你了</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__TAG__IN_A_COMMENT">
+        <source><x id="INTERPOLATION" /> tagged you in a comment</source>
+        <target><x id="INTERPOLATION" /> 在你的评论里标记你了</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__TAG__IN_A_CONVERSATION">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> tagged you in <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />'s conversation</source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /> 的聊天中标记你了 <x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__MISSED_CALL">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> tried to call you.</source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /> 尝试给你打电话</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_GIFT__GIFTED_YOU">
+        <source><x id="INTERPOLATION" /> gifted you <x id="INTERPOLATION_1" /> views <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />for<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" /> 送给你 <x id="INTERPOLATION_1" /> 浏览量 <x id="START_TAG_SPAN" ctype="x-span" />因为<x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__YOUR_POST">
+        <source>your post</source>
+        <target>你的短推</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__YOUR_CHANNEL">
+        <source>your channel</source>
+        <target>你的频道</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_SUBMITTED__VIEWS_FOR">
+        <source><x id="INTERPOLATION" /> views <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />for<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" /> 浏览量 <x id="START_TAG_SPAN" ctype="x-span" />因为<x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_SUBMITTED__AWAITING_APPROVAL">
+        <source>is awaiting approval.</source>
+        <target>正在审核中</target>
+        <note>boost</note>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_SUBMITTED_P2P__AWAITING_APPROVAL_BY">
+        <source>is awaiting approval by <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />@<x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target>正在等待<x id="START_TAG_SPAN" ctype="x-span" />@<x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" />的审核</target>
+        <note>boost</note>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_REQUEST__POINTS_TO_BOOST">
+        <source><x id="INTERPOLATION" /> is offering you <x id="INTERPOLATION_1" /> points to boost</source>
+        <target><x id="INTERPOLATION" /> 正在给你支付 <x id="INTERPOLATION_1" /> 积分来推广</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__THEIR_ACTIVITY">
+        <source>their activity</source>
+        <target>他们的活动</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__THEIR_CHANNEL">
+        <source>their channel</source>
+        <target>他们的频道</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_REJECTED__BOOST_FORM">
+        <source>Your boost <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />for<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target>你的推广<x id="START_TAG_SPAN" ctype="x-span" />因为<x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_REJECTED__REASON">
+        <source>was rejected for <x id="START_TAG_NG-CONTAINER" ctype="x-ng-container" equiv-text="&lt;ng-container&gt;" /><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" />.<x id="CLOSE_TAG_NG-CONTAINER" ctype="x-ng-container" equiv-text="&lt;/ng-container&gt;" /> Your tokens have been credited back to your wallet.</source>
+        <target>fue rechazado: <x id="START_TAG_NG-CONTAINER" ctype="x-ng-container" /><x id="START_ITALIC_TEXT" ctype="x-i" /><x id="INTERPOLATION" /><x id="CLOSE_ITALIC_TEXT" ctype="x-i" />.<x id="CLOSE_TAG_NG-CONTAINER" ctype="x-ng-container" /> 你的FF token已经充回到你的钱包</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_REVOKED__BOOST_FOR">
+        <source>You revoked your boost <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />for<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target>你撤销了你的推广 <x id="START_TAG_SPAN" ctype="x-span" />因为<x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_REVOKED__REFUNDED">
+        <source>Your offer has been refunded.</source>
+        <target>你的报价已经被退款</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_ACCEPTED__WERE_ACCEPTED">
+        <source>were accepted.</source>
+        <target>已被接受。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_COMPLETED__VIEWS_FOR">
+        <source><x id="INTERPOLATION" />/<x id="INTERPOLATION" /> views <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />for<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="INTERPOLATION" />/<x id="INTERPOLATION" /> 浏览量 <x id="START_TAG_SPAN" ctype="x-span" />因为<x id="CLOSE_TAG_SPAN" ctype="x-span" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_COMPLETED__BEEN_MET">
+        <source>have been met.</source>
+        <target>被满足了</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_PEER_REQUEST__IS_OFFERING">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />@<x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> is offering</source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" />@<x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" /> 正在报价</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__THEIR_POST">
+        <source>their post</source>
+        <target>他们的短推</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_PEER_ACCEPTED__ACCEPTED_BID">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />@<x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> accepted your bid of</source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" />@<x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" /> 接受了你的报价</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_PEER_REJECTED__DECLINED_BID">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />@<x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> declined your bid of</source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" />@<x id="INTERPOLATION" /><x id="CLOSE_BOLD_TEXT" ctype="x-b" /> 拒绝了你的报价</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__BOOST_PEER_REJECTED__NOT_CHARGED">
+        <source>You have not been charged.</source>
+        <target>您还没有被收费。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__PROGRAM_QUEUED">
+        <source>Your application for <x id="INTERPOLATION" /> program is awaiting approval.</source>
+        <target>您关于 <x id="INTERPOLATION" /> 项目的申请正在审核中。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__PROGRAM_ACCEPTED">
+        <source>Your application for <x id="INTERPOLATION" /> program was approved. Congratulations!</source>
+        <target>恭喜！您关于 <x id="INTERPOLATION" /> 项目的申请已经通过审核。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__CHANNEL_MONETIZED">
+        <source>Your channel is now monetized. Congratulations!</source>
+        <target>恭喜，您的频道已经通证化了。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__PROGRAM_DECLINED">
+        <source>Your application for <x id="INTERPOLATION" /> program was declined.</source>
+        <target>您关于 <x id="INTERPOLATION" /> 项目的申请已经被拒绝。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__PAYOUT_QUEUED">
+        <source>Your payment request for <x id="INTERPOLATION" /> is awaiting approval.</source>
+        <target>你的付款请求关于 <x id="INTERPOLATION" /> 正在审核中</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__PAYOUT_ACCEPTED">
+        <source>Your payment request for <x id="INTERPOLATION" /> was approved.</source>
+        <target>你的付款请求关于 <x id="INTERPOLATION" /> 已经通过审核.</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__PAYOUT_DECLINED">
+        <source>Your payment request for <x id="INTERPOLATION" /> was declined.</source>
+        <target>你的付款请求关于 <x id="INTERPOLATION" /> 被拒绝了。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__WELCOME_POINTS">
+        <source>Welcome to Minds. We have given you <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />1000 points<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> to get you started.</source>
+        <target>欢迎来到55 social，我们已经为您充入了 <x id="START_TAG_SPAN" ctype="x-span" />1000 积分<x id="CLOSE_TAG_SPAN" ctype="x-span" /> 为您开启征程。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__WELCOME_POST">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />Tap here<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> to create a post</source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" />点击此处<x id="CLOSE_TAG_SPAN" ctype="x-span" /> 发表短推。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__WELCOME_BOOST">
+        <source>You can gain more reach by boosting your content. Hit the blue boost icon on your posts.</source>
+        <target>您推广您的内容将可以获得更多的浏览。点击蓝色小按钮可以推广您的短推。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__WELCOME_CHAT">
+        <source>Chat securely with your mutual subscriptions.</source>
+        <target>与您互关的用户安全的聊天。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__WELCOME_DISCOVER">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />Tap here<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> to discover new channels and media.</source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" />点击此处<x id="CLOSE_TAG_SPAN" ctype="x-span" /> 去发现更多对的频道和多媒体。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__MESSENGER_INVITE">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> wants to chat with you!</source>
+        <target>¡<x id="START_TAG_SPAN" ctype="x-span" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" /> 想跟你聊天。</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__WIRE_HAPPENED__TO_ONETIME">
+        <source>You have successfully wired <x id="INTERPOLATION" /> to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />@<x id="INTERPOLATION_1" /><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
+        <target>你已经成功转账FF给 <x id="INTERPOLATION" /> a <x id="START_LINK" ctype="x-a" />@<x id="INTERPOLATION_1" /><x id="CLOSE_LINK" ctype="x-a" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__WIRE_HAPPENED__FROM_ONETIME">
+        <source>You have received a wire of <x id="INTERPOLATION" /> from <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />@<x id="INTERPOLATION_1" /><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
+        <target>你收到 <x id="INTERPOLATION" /> 来自 <x id="START_LINK" ctype="x-a" />@<x id="INTERPOLATION_1" /><x id="CLOSE_LINK" ctype="x-a" />转账来的FF</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__WIRE_HAPPENED__TO_SUBSCRIPTION">
+        <source>You have subscribed to wire <x id="INTERPOLATION" />/month to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />@<x id="INTERPOLATION_1" /><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
+        <target>你已经订阅了 <x id="INTERPOLATION" /> FF/月转账给 <x id="START_LINK" ctype="x-a" />@<x id="INTERPOLATION_1" /><x id="CLOSE_LINK" ctype="x-a" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__WIRE_HAPPENED__FROM_SUBSCRIPTION">
+        <source>You have received a wire subscription of <x id="INTERPOLATION" />/month from <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />@<x id="INTERPOLATION_1" /><x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
+        <target>你收到一笔 <x id="INTERPOLATION" />FF/月 的订阅付费，来自 <x id="START_LINK" ctype="x-a" />@<x id="INTERPOLATION_1" /><x id="CLOSE_LINK" ctype="x-a" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__REPORT_ACTIONED__ACTIVITY_BEEN">
+        <source>Your post</source>
+        <target>你的短推</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__REPORT_ACTIONED__ACTIVITY_TITLE_BEEN">
+        <source>Your post <x id="INTERPOLATION" /></source>
+        <target>你的短推 <x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__REPORT_ACTIONED__COMMENT_BEEN">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />Your comment<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> has been <x id="INTERPOLATION" /></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" />你的评论<x id="CLOSE_TAG_SPAN" ctype="x-span" /> 被 <x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__GENERAL_ERROR_VIEWING">
+        <source>Sorry, there was an error viewing this notification</source>
+        <target>抱歉，查看此通知时出错。</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__FEED__REMOVE_USER">
+        <source>Remove user</source>
+        <target>移除用户</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__FEED__USER_WAS_KICKED">
+        <source>User was kicked from <x id="INTERPOLATION" />.</source>
+        <target>用户被从<x id="INTERPOLATION" />移除</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__FEED__OK_ACTION">
+        <source>Ok</source>
+        <target>知道了</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__REQUESTS_COUNT">
+        <source>Requests</source>
+        <target>请求</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__SAVE_CHANGES_ACTION">
+        <source>Save changes</source>
+        <target>保存修改</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__ADMINQUEUE_COUNT">
+        <source><x id="INTERPOLATION" /> new</source>
+        <target><x id="INTERPOLATION" /> 添加</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__INVITE_ACTION">
+        <source>Invite</source>
+        <target>邀请</target>
+        <note>verb</note>
+      </trans-unit>
+      <trans-unit id="GROUPS__JOIN_BUTTON__JOIN_ACTION">
+        <source>Join</source>
+        <target>加入该群</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__JOIN_BUTTON__DECLINE_ACTION">
+        <source>Decline</source>
+        <target>降低</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__JOIN_BUTTON__LEAVE_ACTION">
+        <source>Leave</source>
+        <target>离开该群</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__JOIN_BUTTON__CANCEL_REQ_ACTION">
+        <source>Cancel request</source>
+        <target>取消请求</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__JOIN_BUTTON__JOIN_A_GROUP_TITLE">
+        <source>join a group</source>
+        <target>加入群组</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__MEMBERS__INVITE__NAME_TITLE">
+        <source>Invite to <x id="INTERPOLATION" /></source>
+        <target>邀请参加 <x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__MEMBERS__INVITE__TITLE">
+        <source>Invite</source>
+        <target>邀请</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__MEMBERS__INVITE__ITEM_ONLY_SUBSCRIBERS">
+        <source>- You can only invite users who are your subscribers</source>
+        <target>- 你只能邀请你的粉丝加入</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__MEMBERS__INVITE__ITEM_NOTIFICATION_INFO">
+        <source>- They will receive a notification to confirm they want to be a member of this group</source>
+        <target>- 他们将收到一个通知，确认他们想成为这个组的成员</target>
+        <note>Is this they plural or "unknown gender 3rd P. Sg."? I would assume the latter.</note>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__MEMBERS__INVITE__ITEM_BAN_REINVITE">
+        <source>- If the user was banned from the group, inviting them will lift the ban</source>
+        <target>- 如果用户被禁止进入该组，邀请他们将取消禁令。 </target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__MEMBERS__INVITE__INVITING">
+        <source>Inviting...</source>
+        <target>邀请中...</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__MEMBERS__INVITE__SEARCH_PLACEHOLDER">
+        <source>Search for a channel</source>
+        <target>搜索频道</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__CARD_USER_ACTIONS__REMOVE_FROM_GROUP">
+        <source>Remove from Group</source>
+        <target>移除群组</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__CARD_USER_ACTIONS__REINVITE">
+        <source>Re-invite to Group</source>
+        <target>重新邀请进群</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__CARD_USER_ACTIONS__INVITED">
+        <source>Invited</source>
+        <target>已邀请</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__CARD_USER_ACTIONS__MAKE_ADMIN">
+        <source>Make Owner</source>
+        <target>设置为管理员</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__CARD_USER_ACTIONS__REMOVE_AS_ADMIN">
+        <source>Remove as Owner</source>
+        <target>取消管理理员</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__GROUP_SETTINGS_BTN__DISABLE_NOTIFICATIONS">
+        <source>Disable Notifications</source>
+        <target>禁用通知</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__GROUP_SETTINGS_BTN__ENABLE_NOTIFICATIONS">
+        <source>Enable Notifications</source>
+        <target>启用通知</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__GROUP_SETTINGS_BTN__DELETE_GROUP">
+        <source>Delete Group</source>
+        <target>删除群组</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__GROUP_SETTINGS_BTN__DELETE_GROUP_CONFIRM">
+        <source>Are you sure you want to delete <x id="INTERPOLATION" />? This action cannot be undone.</source>
+        <target>确定删除 <x id="INTERPOLATION" />吗? 此操作无法撤销。</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__MEMBERS__SEARCH_PLACEHOLDER">
+        <source>Search for a member</source>
+        <target>搜索成员</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__FILTER_SELECTOR__FEED_OPTION">
+        <source>Feed</source>
+        <target>信息流</target>
+        <note>group activities selector</note>
+      </trans-unit>
+      <trans-unit id="BLOGS__VIEW__FLAGGED_AS_SPAM">
+        <source>This blog was flagged as spam.</source>
+        <target>这篇博客被标记为垃圾博文。</target>
+      </trans-unit>
+      <trans-unit id="BLOGS__VIEW__FLAGGED_AS_DELETED">
+        <source>This blog was flagged as deleted.</source>
+        <target>该博客已被删除</target>
+      </trans-unit>
+      <trans-unit id="BLOGS__VIEW__SHARE">
+        <source>SHARE</source>
+        <target>分享</target>
+      </trans-unit>
+      <trans-unit id="BLOGS__VIEW__CONFIRM_DELETION">
+        <source>Are you sure you want to delete this blog?<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />There's no UNDO!</source>
+        <target>确认删除这篇博客?<x id="LINE_BREAK" ctype="lb" /><x id="LINE_BREAK" ctype="lb" />该操作无法撤销。</target>
+      </trans-unit>
+      <trans-unit id="BLOGS__VIEW__DELETION_CONFIRMATION">
+        <source>The blog has been deleted.</source>
+        <target>该博客已删除成功。</target>
+      </trans-unit>
+      <trans-unit id="BLOGS__EDIT__TITLE_PLACEHOLDER">
+        <source>Your title</source>
+        <target>请输入标题</target>
+      </trans-unit>
+      <trans-unit id="BLOGS__EDIT__INLINE_EDITOR_PLACEHOLDER">
+        <source>Go ahead and write some content!</source>
+        <target>请填写博客内容</target>
+      </trans-unit>
+      <trans-unit id="BLOGS__EDIT__SAVE_DRAFT_ACTION">
+        <source>Save draft</source>
+        <target>存草稿</target>
+      </trans-unit>
+      <trans-unit id="BLOGS__EDIT__PUBLISH_ACTION">
+        <source>Publish</source>
+        <target>发布</target>
+      </trans-unit>
+      <trans-unit id="BLOGS__EDIT__LICENCE_PLACEHOLDER">
+        <source>-- License --</source>
+        <target>-- 证件 --</target>
+      </trans-unit>
+      <trans-unit id="SEARCH__TOP_TAB">
+        <source>Top</source>
+        <target>最热</target>
+      </trans-unit>
+      <trans-unit id="SEARCH__LATEST_TAB">
+        <source>Latest</source>
+        <target>最新</target>
+      </trans-unit>
+      <trans-unit id="SEARCH__EXPLICIT_TOOLTIP">
+        <source>Include explicit content (+18) search results</source>
+        <target>搜索结果包含18+内容</target>
+      </trans-unit>
+      <trans-unit id="SEARCH__EXCLUSIVE_TOOLTIP">
+        <source>Include exclusive content in search results</source>
+        <target>搜索结果包含仅自己可见内容</target>
+      </trans-unit>
+      <trans-unit id="SEARCH__SUGGESTIONS__MINDS_CONTEXT_LABEL">
+        <source>Search Minds:</source>
+        <target>搜索55 social:</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__CATEGORIES_TARGET_TITLE_CTX">
+        <source>Select the categories which you want your boost to be targeted to (<x id="INTERPOLATION" /> max).</source>
+        <target>选择你想要推广到的类别，目标为 (<x id="INTERPOLATION" /> máx).</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BANNER__ADD_NEW_BANNER_W_RECOMMENDATION">
+        <source>Click here to add a new banner<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /> <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;" />Recommended minimum size 2000px × 1125px (Ratio 16:9)<x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;" /></source>
+        <target>点击此处添加背景图<x id="LINE_BREAK" ctype="lb" /> <x id="START_EMPHASISED_TEXT" ctype="x-em" />建议最小尺寸 2000px × 1125px (比例 16:9)<x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" /></target>
+      </trans-unit>
+      <trans-unit id="M__SOCIAL_NETWORK_SLOGAN">
+        <source>Your Social Network</source>
+        <target>你的55社交网络</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__CHANNEL__PLURAL">
+        <source>Channels</source>
+        <target>频道</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__UPLOAD">
+        <source>Upload</source>
+        <target>上传</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__GROUP__PLURAL">
+        <source>Groups</source>
+        <target>群组</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__EXCLUSIVE">
+        <source>Exclusive</source>
+        <target>仅自己可见</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__BOOST">
+        <source>Boost</source>
+        <target>推广</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__WIRE">
+        <source>Wire</source>
+        <target>转账FF</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__COPYRIGHT_2017">
+        <source>© Minds 2018</source>
+        <target>© 2017-2019 55. ALL RIGHTS RESERVED.</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__START_A_CHANNEL">
+        <source>Not on Minds? Start a channel</source>
+        <target>还没有55 social的账号？开启你的社交账号吧</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__USERNAME">
+        <source>Username</source>
+        <target>用户名</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__CONTINUE">
+        <source>Continue</source>
+        <target>继续</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__PASSWORD">
+        <source>Password</source>
+        <target>登录密码</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__SHARE">
+        <source>Share</source>
+        <target>分享</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__MATURE_CONTENT">
+        <source>Mature content</source>
+        <target>有18岁+内容</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__PLEASE_TRY_AGAIN">
+        <source>Please try again later</source>
+        <target>请稍后再试</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__AFFILIATE_PROGRAM">
+        <source>Affiliate Program</source>
+        <target>附属计划</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__INVITE_FRIENDS">
+        <source>Referral Link</source>
+        <target>推广链接</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__CREATE">
+        <source>Create</source>
+        <target>创建</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__VIDEO_PLURAL">
+        <source>Videos</source>
+        <target>视频</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__IMAGE_PLURAL">
+        <source>Images</source>
+        <target>图片</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__ENTER_CITY">
+        <source>Enter your city...</source>
+        <target>请输入你所在的城市...</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__SELECT_CITY">
+        <source>Select your city:</source>
+        <target>选择所在城市</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__POINTS">
+        <source>Points</source>
+        <target>积分</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__SELECTED">
+        <source>Selected</source>
+        <target>已选</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__USD">
+        <source>USD</source>
+        <target>美元</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__SELECT_MONEY">
+        <source>Don't have Tokens? No problem.</source>
+        <target>还没有FF？没关系</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__PAYMENT_ATTACHED">
+        <source>Your payment is attached.</source>
+        <target>你的支付已经附上了。</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__CHANGE">
+        <source>Change</source>
+        <target>修改</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__APPEAL_MARK">
+        <source>If you wish to appeal, please check your <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />Reported Content console<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />.</source>
+        <target>如需申述，请查看你的 <x id="START_LINK" ctype="x-a" />举报内容控制台<x id="CLOSE_LINK" ctype="x-a" />.</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__FEED_COUNT">
+        <source>Feed</source>
+        <target>短推数</target>
+        <note>Count of activities</note>
+      </trans-unit>
+      <trans-unit id="M__COMMON__SUBSCRIBERS">
+        <source>Subscribers</source>
+        <target>粉丝数</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__VIEWS">
+        <source>Views</source>
+        <target>浏览量</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__EDIT">
+        <source>Edit</source>
+        <target>编辑</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__SAVE">
+        <source>Save</source>
+        <target>保存</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__VIEW_MORE">
+        <source>View More</source>
+        <target>查看更多</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__CONFIRM_18">
+        <source>Click to confirm your are 18+</source>
+        <target>点击确认你已年满18岁以上</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__VIEWS_WITH_COUNT">
+        <source><x id="INTERPOLATION" /> views</source>
+        <target>浏览量</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__VISIBILITY_PUBLIC">
+        <source>Public</source>
+        <target>公开</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__VISIBILITY_UNLISTED">
+        <source>Unlisted</source>
+        <target>没有上市</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__LICENSE_ALL_RIGHT_RESERVED">
+        <source>All Rights Reserved</source>
+        <target>保留所有版权</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__DELETE_PERMANENTLY">
+        <source>Delete permanently</source>
+        <target>永久删除</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__BOOST">
+        <source>Boost</source>
+        <target>推广</target>
+        <note>verb</note>
+      </trans-unit>
+      <trans-unit id="M__ACTION__LOGIN">
+        <source>Login</source>
+        <target>登录</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__REVIEW">
+        <source>Review</source>
+        <target>审查</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__ANALYTICS__BACKLOG">
+        <source>Backlog</source>
+        <target>积压</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__ANALYTICS__BACKLOG_VALUE_HOURS">
+        <source><x id="INTERPOLATION" /> hours</source>
+        <target><x id="INTERPOLATION" /> 时</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__APPROVED">
+        <source>Approved</source>
+        <target>已通过</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__ACCEPT">
+        <source>Accept</source>
+        <target>接受</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__REJECT">
+        <source>Reject</source>
+        <target>拒绝</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__CANCEL">
+        <source>Cancel</source>
+        <target>取消</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__DELETE">
+        <source>Delete</source>
+        <target>删除</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__REVIEW_PENDING">
+        <source>Review Pending</source>
+        <target>等待审核</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__REJECTED">
+        <source>Rejected</source>
+        <target>已拒绝</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__VIEW_PARENT_COMMENT_THREAD">
+        <source>View parent and its comment thread</source>
+        <target>查看源发及其评论</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__POST_NOT_FOUND">
+        <source>Post not found</source>
+        <target>为找到短推</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__MARK_SPAM">
+        <source>Mark as spam</source>
+        <target>标记为垃圾</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__APPROVE">
+        <source>Approve</source>
+        <target>通过审核</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__BAN_MONETIZATION_NOTICE">
+        <source>Users can be banned for monetizing on the dropdown in their profile.</source>
+        <target>用户可以被禁止在其个人资料的下拉列表中赚钱。</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__CATEGORY_PLACEHOLDER">
+        <source>-- Category --</source>
+        <target>-- 类别 --</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__REMOVE">
+        <source>Remove</source>
+        <target>移除</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__EXPLICIT">
+        <source>Explicit</source>
+        <target>打码</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__SAVED">
+        <source>Saved</source>
+        <target>已保存</target>
+      </trans-unit>
+      <trans-unit id="M__NAMES__FACEBOOK">
+        <source>Facebook</source>
+        <target>Facebook</target>
+      </trans-unit>
+      <trans-unit id="M__NAMES__TWITTER">
+        <source>Twitter</source>
+        <target>Twitter</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__EMAIL">
+        <source>Email</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__EARNINGS">
+        <source>Tokens</source>
+        <target>FF</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__ENTER_2FA_CODE">
+        <source>Enter your code here</source>
+        <target>请输入验证码</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__CONFIRM">
+        <source>Confirm</source>
+        <target>确认</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__COUNTRY">
+        <source>Country</source>
+        <target>国家</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__COUNTRY_STATE">
+        <source>State</source>
+        <target>州</target>
+        <note>State as a country entity</note>
+      </trans-unit>
+      <trans-unit id="M__COMMON__SUBSCRIPTIONS">
+        <source>Subscriptions</source>
+        <target>订阅量</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__NEWSFEED_PLURAL">
+        <source>Feeds</source>
+        <target>短推数</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__SIDEBAR_PLURAL">
+        <source>Sidebars</source>
+        <target>边栏</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__SELECT">
+        <source>Select</source>
+        <target>选择</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__EDITED">
+        <source>edited</source>
+        <target>已编辑</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__MEMBERS">
+        <source>Members</source>
+        <target>成员</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__NOT_SPAM">
+        <source>Not spam</source>
+        <target>不是垃圾</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__TOTAL_EARNINGS_30_MINUS_FEES">
+        <source>This is your total earnings for the past 30 days, minus any fees.</source>
+        <target>这是您过去30天的总收入，减去任何费用。</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__PENDING">
+        <source>Pending</source>
+        <target>审核中</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__EARNINGS_AWAITING_NEGATIVE_REFUND">
+        <source>This is your earnings awaiting payout. A negative number indicates a refund or chargeback has occured.</source>
+        <target>这是你等待支付的收入。负数表示发生退款或退款。</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__PAID_OUT">
+        <source>Paid out</source>
+        <target>已结清</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__THIS_SENT_TO_BANK_ACCOUNT">
+        <source>This is what has been sent to your bank account</source>
+        <target>这是发送到你银行账户的东西</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__COMPLETE">
+        <source>Complete</source>
+        <target>完成</target>
+        <note>Completed</note>
+      </trans-unit>
+      <trans-unit id="M__COMMON__POINTS_WITH_VALUE">
+        <source><x id="INTERPOLATION" /> points</source>
+        <target>1$ 积分</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__PLEASE_WAIT">
+        <source>Please wait...</source>
+        <target>请稍后...</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__OPTIONS">
+        <source>Options</source>
+        <target>其他选择</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__FIRST_NAME">
+        <source>First name</source>
+        <target>名</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__LAST_NAME">
+        <source>Last name</source>
+        <target>姓</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__DATE">
+        <source>Date</source>
+        <target>日期</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__COLUMN">
+        <source>Amount</source>
+        <target>数量</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__CANCEL_MONETIZATION">
+        <source>Cancel Monetization</source>
+        <target>取消通证化</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__POINTS_SUFFIX">
+        <source>points</source>
+        <target>积分</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__WIRE_PLURAL">
+        <source>Wires</source>
+        <target>转账FF</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__SYMBOL_AND_USD">
+        <source>$ USD</source>
+        <target>$ USD</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__COMPLETE">
+        <source>Complete</source>
+        <target>完成</target>
+        <note>verb</note>
+      </trans-unit>
+      <trans-unit id="M__COMMON__EMBED_INTO_WEBSITE">
+        <source>Embed into your website:</source>
+        <target>嵌入您的网站:</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__BLOG_PLURAL">
+        <source>Blogs</source>
+        <target>博客</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__REPORT">
+        <source>Report</source>
+        <target>举报</target>
+        <note>Report as flag something</note>
+      </trans-unit>
+      <trans-unit id="M__COMMON__THANKS_LET_US_KNOW_KEEP_MINDS_SAFE">
+        <source>Thanks for letting us know! We appreciate your effort to keep Minds safe and secure.</source>
+        <target>谢谢你告诉我们！我们感谢您的努力，使我们55 social更安全。 </target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__REVIEW_REPORT_ASAP">
+        <source>We will review your report as soon as possible.</source>
+        <target>我们将尽快审核你的举报。</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__CLOSE__CAPS">
+        <source>CLOSE</source>
+        <target>关闭</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__TRANSLATE">
+        <source>Translate</source>
+        <target>翻译</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__REPORT">
+        <source>Report</source>
+        <target>举报</target>
+        <note>verb</note>
+      </trans-unit>
+      <trans-unit id="M__COMMON__WAIT_UPLOAD">
+        <source>Please wait until the upload is complete.</source>
+        <target>请等待上传完毕</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__FEATURE">
+        <source>Feature</source>
+        <target>特点</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__SUBSCRIBE">
+        <source>Subscribe</source>
+        <target>关注</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__BAN_USER">
+        <source>Ban user</source>
+        <target>禁用户</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__COMMENT_X_ON_Y">
+        <source><x id="INTERPOLATION" /> commented on <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION_1" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target>1$ 评论</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__X_POINTS_FOR">
+        <source><x id="INTERPOLATION" /> points <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />for<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target>1$ 积分</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__FOR_WORD">
+        <source>for</source>
+        <target>因为</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__REMOVE_X_FROM_Y_CONFIRM">
+        <source>Are you sure you want to remove <x id="INTERPOLATION" /> from <x id="INTERPOLATION_1" />?</source>
+        <target>确定需要移除 1$ 从 2$?</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__BAN_PERMANENTLY">
+        <source>Ban permanently</source>
+        <target>永久禁用</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__NAME_PLACEHOLDER">
+        <source>Enter a name</source>
+        <target>输入名称</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__CONVERSATIONS">
+        <source>Conversations</source>
+        <target>对话</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__DESCRIPTION_PLACEHOLDER">
+        <source>Enter a brief description</source>
+        <target>输入简要描述</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__OPEN_GROUP">
+        <source>Open Group</source>
+        <target>公开</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__CLOSED_GROUP">
+        <source>Closed Group</source>
+        <target>关闭群组</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__ANYONE_CAN_POST">
+        <source>Anyone can post</source>
+        <target>所有人均可发布</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__POSTS_ARE_MODERATED">
+        <source>Posts are moderated</source>
+        <target>短推被改变</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__DEFAULT_VIEW_FEED">
+        <source>Default view: Feed</source>
+        <target>默认浏览量: 短推数</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__DEFAULT_VIEW_CONVERSATIONS">
+        <source>Default view: Conversations</source>
+        <target>默认浏览量: 对话数</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__USER_INFO">
+        <source>Views: <x id="INTERPOLATION" /> | Subscribers: <x id="INTERPOLATION_1" /></source>
+        <target>浏览量: 1$ | 订阅者: 2$</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__POST_PLURAL">
+        <source>Posts</source>
+        <target>短推数</target>
+      </trans-unit>
+      <trans-unit id="SEARCH_CONTEXT_COLON">
+        <source>Search <x id="INTERPOLATION" />:</source>
+        <target>搜索 1$</target>
+      </trans-unit>
+      <trans-unit id="192b09ff0c9ff068903252b633dfc28ea56da479">
+        <source>Your <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />video<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> is ready to be viewed!</source>
+        <target>你的 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />视频<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> 已经可以被观看啦!</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__REWARDS__YOU_HAVE_RECEIVED_X_TOKENS_TODAY">
+        <source>You earned <x id="INTERPOLATION" /> tokens today.</source>
+        <target>您今天赚了 <x id="INTERPOLATION" /> FF tokens！</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATION__REWARDS__YOU_HAVE_LEFT">
+        <source>You have <x id="INTERPOLATION" /> left to earn tokens today!</source>
+        <target>您今天还可以赚 <x id="INTERPOLATION" /> FF tokens！</target>
+      </trans-unit>
+      <trans-unit id="MINDS__TOPBAR__VIEW_CHANNEL">
+        <source>View Channel</source>
+        <target>查看频道</target>
+      </trans-unit>
+      <trans-unit id="MINDS__TOPBAR__ADMIN">
+        <source>Admin</source>
+        <target>管理员</target>
+      </trans-unit>
+      <trans-unit id="MINDS__TOPBAR__FAQ">
+        <source>FAQ</source>
+        <target>FAQ</target>
+      </trans-unit>
+      <trans-unit id="MINDS__TOPBAR__HS_GROUP">
+        <source>Help &amp; Support</source>
+        <target>帮助 &amp; 支持</target>
+      </trans-unit>
+      <trans-unit id="MINDS__TOPBAR__TOP__OPEN_TRENDING_ITEM_TOOLTIP">
+        <source>Open may contain controversial content. By selecting Open, you acknowledge that you are willing to see controversial content.</source>
+        <target>可能包含有争议的内容。通过选择“打开”，您承认您愿意看到有争议的内容。 </target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__OFFER__PLURAL">
+        <source>Offers</source>
+        <target>可提供</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__OFFERS_SELECTOR_DESC">
+        <source>Your content will be shared to a specific channel in exchange for USD or tokens.</source>
+        <target>您的内容将被分享到一个特定的频道，以换取美元或FF。</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__PAYMENT_METHOD_CRYPTO_TITLE">
+        <source>Payment Method</source>
+        <target>支付方式</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__TOKENS_PRIORITY_FEE">
+        <source>+ <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" /><x id="INTERPOLATION" /> tokens<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /></source>
+        <target>+ <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" /><x id="INTERPOLATION" /> tokens<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /></target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__BOOST_NEXT">
+        <source>Next</source>
+        <target>下一步</target>
+        <note>verb</note>
+      </trans-unit>
+      <trans-unit id="M__ACTION__BOOST_BACK">
+        <source>Back</source>
+        <target>返回</target>
+        <note>verb</note>
+      </trans-unit>
+      <trans-unit id="WIRE__CREATOR__WIRE_NOTICE_TOKENS">
+        <source>Support <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />@<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /><x id="INTERPOLATION" /> by sending them tokens. Once you send them the amount listed in the tiers, you can receive rewards if they are offered. Otherwise, it's a donation.</source>
+        <target>发送FF给 <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />@<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /><x id="INTERPOLATION" /> 以表支持. 只有你转给他们设定的数量, 你将获得他们提供的奖励. 否则没有奖励。</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CREATOR__AMOUNT_TITLE_HOW_MANY_TOKENS">
+        <source>How many tokens do you want to send?</source>
+        <target>你想转出多少FF?</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__TOKENS_INPUT">
+        <source>Tokens</source>
+        <target>FF</target>
+        <note>tokens input</note>
+      </trans-unit>
+      <trans-unit id="b1ca9ab71d6492ee128ec3771cda9d079e8c2383">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> <x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span&gt;" />…<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="INTERPOLATION" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /> <x id="START_TAG_SPAN_1" ctype="x-span" equiv-text="&lt;span&gt;" />…<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></target>
+      </trans-unit>
+      <trans-unit id="c9be1b0d69f461808134609a0b76d06a7f09540a">
+        <source>USD</source>
+        <target>美元</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__ONCHAIN">
+        <source>OnChain</source>
+        <target>链上</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__BALANCE">
+        <source>Balance</source>
+        <target>余额</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__OFFCHAIN">
+        <source>OffChain</source>
+        <target>链下</target>
+      </trans-unit>
+      <trans-unit id="M__WIRE_CREATOR__DONT_HAVE_TOKENS">
+        <source>Don't have Tokens? No problem.</source>
+        <target>还没有FF？没关系</target>
+      </trans-unit>
+      <trans-unit id="WALLET__TOKENS_NAV">
+        <source>Tokens</source>
+        <target>FF Tokens</target>
+      </trans-unit>
+      <trans-unit id="MINDS__WALLET__TOPBAR__TOKENS_TOOLTIP">
+        <source>See your contributions score and rewards, withdraw them and configure your ethereum wallet</source>
+        <target>查看您的贡献积分和奖励，提取它们并配置您的以太坊钱包</target>
+      </trans-unit>
+      <trans-unit id="MINDS__WALLET__TOPBAR__WIRE_TOOLTIP">
+        <source>Your sent and received wires ledger</source>
+        <target>你发送及接收FF转账明细账</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__MINDS_PLUS ">
+        <source>Minds Plus</source>
+        <target>Plus会员</target>
+      </trans-unit>
+      <trans-unit id="MINDS__WALLET__TOPBAR__MINDS_PLUS_TOOLTIP">
+        <source>Opt-out of boosts, earn 1,000 monthly points, access exclusive Minds content, and more</source>
+        <target>选择退出推广，每月获得1000点积分，访问独家思想内容等 </target>
+      </trans-unit>
+      <trans-unit id="MINDS__WALLET__TOGGLE">
+        <source>Wallet</source>
+        <target>钱包</target>
+      </trans-unit>
+      <trans-unit id="831c70609f5320ba73bb112526ec9cb86c71367c">
+        <source>Tokens</source>
+        <target>FF</target>
+      </trans-unit>
+      <trans-unit id="3ad5221f4d6c53c3cb08f9067ac7a7ae44edf016">
+        <source>Your Tokens balance</source>
+        <target>FF</target> 
+      </trans-unit>
+      <trans-unit id="WALLET__FLYOUT__GO_TO_WALLET">
+        <source>Go to Wallet</source>
+        <target>去钱包</target>
+      </trans-unit>
+      <trans-unit id="BLOCKCHAIN__OPTIONS__LOCAL_WALLETS_LABEL">
+        <source>Local Wallets</source>
+        <target>social钱包</target>
+        <note>wallet selector</note>
+      </trans-unit>
+      <trans-unit id="MINDS__BOOST_CONSOLE__TOPBAR__NEWSFEED_TOOLTIP">
+        <source>Boosts shown on user's feeds</source>
+        <target>显示在用户信息流的推广 </target>
+      </trans-unit>
+      <trans-unit id="MINDS__BOOST_CONSOLE__TOPBAR__SIDEBAR_TOOLTIP">
+        <source>Boosts shown on sidebars</source>
+        <target>显示在用户侧边栏的推广</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BOOST_CONSOLE__TOPBAR__OFFERS_TOOLTIP">
+        <source>Boosts you've offered to other users or that've been offered to you</source>
+        <target>向其他用户提供或向您提供的推广</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__PUBLISHER">
+        <source>Publisher</source>
+        <target>发布人</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BOOST_CONSOLE__TOPBAR__PUBLISHER_TOOLTIP">
+        <source>Boost Publisher program</source>
+        <target>推广发布人项目</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BOOST_CONSOLE__TOPBAR__INBOX_TOOLTIP">
+        <source>Boosts that have been offered to you</source>
+        <target>其他人提供给你的推广</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BOOST_CONSOLE__TOPBAR__OUTBOX_TOOLTIP">
+        <source>Boosts you've offered other users</source>
+        <target>你提供给其他用户的推广</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__CARD__VIEWS_SO_FAR">
+        <source><x id="INTERPOLATION" /> views so far</source>
+        <target>至今<x id="INTERPOLATION" /> 浏览量</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__CARD__VIEWS_DELIVERED">
+        <source><x id="INTERPOLATION" /> views delivered</source>
+        <target><x id="INTERPOLATION" /> 传递浏览量</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__CARD__POINTS_VALUE">
+        <source><x id="INTERPOLATION" /> points</source>
+        <target><x id="INTERPOLATION" /> 积分</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__CARD__TOKENS_VALUE">
+        <source><x id="INTERPOLATION" /> tokens</source>
+        <target><x id="INTERPOLATION" /> FF</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__BOOSTER__POST_SOMETHING">
+        <source>You have no content yet. Why don't you post something?</source>
+        <target>您还没有内容。不发布点什么么？</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__TOKENS_PER_MONTH">
+        <source><x id="INTERPOLATION" /> Tokens/month</source>
+        <target><x id="INTERPOLATION" /> FF/月</target>
+      </trans-unit>
+      <trans-unit id="WIRE__LOCK_SCREEN__OVER_TOKENS_PER_MONTH">
+        <source>over <x id="INTERPOLATION" /> Tokens/month</source>
+        <target>over <x id="INTERPOLATION" /> FF/月</target>
+      </trans-unit>
+      <trans-unit id="M__FEATURE__TOKENS">
+        <source>Tokens</source>
+        <target>FF</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__TOKEN">
+        <source>Token</source>
+        <target>FF Token</target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__LEDGER__AMOUNT_TOKEN_CELL_VALUE">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />M<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /><x id="INTERPOLATION" /></source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;" />M<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;" /><x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="WIRE__CONSOLE__OVERVIEW__TOKENS_EARNINGS_TOOLTIP">
+        <source>The total in Tokens you have earned</source>
+        <target>您赚取的全部FF</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BUTTONS__UNSUBSCRIBE__SUBSCRIBED_LABEL">
+        <source>Unsubscribe</source>
+        <target>取消关注</target>
+      </trans-unit>
+      <trans-unit id="MINDS_BUTTON__USER_DROPDOWN__VIEW_LEDGER">
+        <source>View Ledger</source>
+        <target>查看明细账</target>
+      </trans-unit>
+      <trans-unit id="MINDS_BUTTON__USER_DROPDOWN__VIEW_WITHDRAWALS">
+        <source>View Withdrawals</source>
+        <target>查看提现</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__MARK_AS_SAFE">
+        <source>Mark as Safe</source>
+        <target>标记为安全</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__MENU__MARK_AS_OPEN">
+        <source>Mark as Open</source>
+        <target>标记为公开</target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__SUBSCRIPTIONS__LAST_BILLING">
+        <source>Last billing: <x id="INTERPOLATION" /></source>
+        <target>最近一币账单: <x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__SUBSCRIPTIONS__NEXT_BILLING">
+        <source>Next billing: <x id="INTERPOLATION" /></source>
+        <target>下一笔账单: <x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="MINDS__LOGIN__EXCEPTION__ATTEMPTS_EXCEEDED">
+        <source>You have exceeded your login attempts. Please try again in a few minutes.</source>
+        <target>您登录次数过多，请过几分钟重试.</target>
+      </trans-unit>
+      <trans-unit id="MINDS__LOGIN__EXCEPTION__DISABLED_USER">
+        <source>This account has been disabled</source>
+        <target>此账户被无效。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__LOGIN__EXCEPTION__INCORRECT_USERNAME_PASSWORD">
+        <source>Incorrect username/password. Please try again.</source>
+        <target>用户名/密码输入不正确，请再次输入.</target>
+      </trans-unit>
+      <trans-unit id="MINDS__LOGIN__EXCEPTION__ACCOUNT_LOCKED">
+        <source>Account locked</source>
+        <target>账户已锁定</target>
+      </trans-unit>
+      <trans-unit id="MINDS__LOGIN__EXCEPTION__BANNED_USER">
+        <source>You are not allowed to login.</source>
+        <target>您被禁止登录</target>
+      </trans-unit>
+      <trans-unit id="MINDS__LOGIN__EXCEPTION__CODE_VERIFICATION_FAILED">
+        <source>Sorry, we couldn't verify your two factor code. Please try logging again.</source>
+        <target>抱歉，无法验证双因素认证，请再试一次.</target>
+      </trans-unit>
+      <trans-unit id="MINDS__LOGIN__EXCEPTION__INVALID_TOKEN">
+        <source>Invalid token</source>
+        <target>token无效</target>
+      </trans-unit>
+      <trans-unit id="MINDS__LOGIN__EXCEPTION__UNKNOWN_ERROR">
+        <source>Unknown error</source>
+        <target>未知错误</target>
+      </trans-unit>
+      <trans-unit id="MINDS__PASSWORD_TOOLTIP">
+        <source>Password must have more than 8 characters. Including uppercase, numbers, and special characters (ie. !,#,@)</source>
+        <target>密码需要8位以上大小写字母、数字及特殊符号(如 !,#,@)组合</target>
+      </trans-unit>
+      <trans-unit id="FORMS__REGISTER__EXCLUSIVE_PROMOTIONS_ACCEPTANCE_LABEL">
+        <source>Receive exclusive promotions from Minds (recommended)</source>
+        <target>接收来自55 social的专属推送 (推荐)</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ONBOARDING__WALLET_SETUP_TEXT">
+        <source>Set up your ethereum wallet</source>
+        <target>设置您的以太坊钱包</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ONBOARDING__WALLET_SETUP_SUBTEXT">
+        <source>Click here to set up your ethereum wallet</source>
+        <target>点击此处设置您的以太坊钱包</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATIONS__LOAD_NEW_BUTTON">
+        <source>New Notifications</source>
+        <target>新消息</target>
+      </trans-unit>
+      <trans-unit id="NOTIFICATIONS__NOTIFICATIONS__LOADING">
+        <source>Loading Notifications...</source>
+        <target>通知加载中...</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NOTIFICATIONS__TOGGLE">
+        <source>Notifications</source>
+        <target>通知</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON_TOPBAR_TOP_TOOLTIP">
+        <source>Top displays the top content on Minds</source>
+        <target>“最热”展示在55 social上最热门的内容</target>
+      </trans-unit>
+      <trans-unit id="MINDS__GROUPS__TOPBAR__YOUR_GROUPS_TOOLTIP">
+        <source>Your Groups</source>
+        <target>我的群组</target>
+      </trans-unit>
+      <trans-unit id="MINDS__GROUPS__TOPBAR__START_A_NEW_GROUP_TOOLTIP">
+        <source>Start a new group</source>
+        <target>创建一个新群组</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__CARD_USER_ACTIONS__MAKE_MODERATOR">
+        <source>Make Moderator</source>
+        <target>做主持人</target>
+      </trans-unit>
+      <trans-unit id="GROUPS__PROFILE__CARD_USER_ACTIONS__REMOVE_AS_MODERATOR">
+        <source>Remove as Moderator</source>
+        <target>取消主持人</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__UNFEATURE">
+        <source>Unfeature</source>
+        <target>无特征</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__SELECT_A_CATEGORY">
+        <source>-- SELECT A CATEGORY --</source>
+        <target>-- 选择一个品类 --</target>
+      </trans-unit>
+      <trans-unit id="@@MINDS__BLOGS__TOPBAR__SUBSCRIPTIONS_TOOLTIP">
+        <source>Blogs from channels you are subscribed to</source>
+        <target>您关注的人发布的博客</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BLOGS__TOPBAR__YOUR_BLOGS_TOOLTIP">
+        <source>Your blogs</source>
+        <target>我的博客</target>
+      </trans-unit>
+      <trans-unit id="MINDS__BLOGS__TOPBAR__WRITE_A_NEW_BLOG_TOOLTIP">
+        <source>Write a new Blog</source>
+        <target>写新博客</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__SEE_MORE_LIKE_THIS">
+        <source>See more like this</source>
+        <target>愿意看更多这类信息</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__SEE_LESS_LIKE_THIS">
+        <source>See less like this</source>
+        <target>不愿意看到更多这类信息</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__FOLLOW_NOTIFICATIONS">
+        <source>Follow post</source>
+        <target>关注短推</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__UNFOLLOW_NOTIFICATIONS">
+        <source>Un-follow post</source>
+        <target>取消关注短推</target>
+      </trans-unit>
+      <trans-unit id="5d64b798bdc235e10b8631d52c0accfb6272bfa4">
+        <source>Block user</source>
+        <target>屏蔽用户</target>
+      </trans-unit>
+      <trans-unit id="dcc6ef89466f0bb774ec988995452df291e80b8f">
+        <source>Unblock user</source>
+        <target>解除屏蔽</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__MARK_AS_SAFE">
+        <source>Mark as Safe</source>
+        <target>标记为安全</target>
+      </trans-unit>
+      <trans-unit id="COMMON__POST_MENU__MARK_AS_OPEN">
+        <source>Mark as Open</source>
+        <target>标记为公开</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SEARCH__TOPBAR__LATEST_TOOLTIP">
+        <source>Show newly created content first</source>
+        <target>优先展示最新内容</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SEARCH__TOPBAR__CHANNELS_TOOLTIP">
+        <source>Show only channels</source>
+        <target>仅频道</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SEARCH__TOPBAR__POSTS_TOOLTIP">
+        <source>Show only Posts</source>
+        <target>仅短推</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SEARCH__TOPBAR__VIDEOS_TOOLTIP">
+        <source>Show only videos</source>
+        <target>仅视频</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SEARCH__TOPBAR__IMAGES_TOOLTIP">
+        <source>Show only images</source>
+        <target>仅图片</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SEARCH__TOPBAR__BLOGS_TOOLTIP">
+        <source>Show only blogs</source>
+        <target>仅博客</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__TOPBAR__GROUPS_TOOLTIP">
+        <source>Show only groups</source>
+        <target>仅群组</target>
+      </trans-unit>
+      <trans-unit id="BLOCKCHAIN__OPTIONS__INSTALL_WEB3">
+        <source>Minds recommends <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />MetaMask<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />. It's a bridge that allows you to visit the distributed web of tomorrow in your browser today. MetaMask includes a secure identity vault, providing a user interface to manage your identities on different sites and sign blockchain transactions.</source>
+        <target>55 social推荐 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />元模型<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />. 它是你访问分发的明天的网站和今天的浏览器之间的桥梁。元模型包括安全金库，可以提供用户接口来管理你在不同的站点及区块链的交易.</target>
+      </trans-unit>
+      <trans-unit id="BLOCKCHAIN__OPTIONS__WEB3_LOCKED_OR_NO_WALLETS">
+        <source>There are no local wallets available, the wallet manager is locked, or you're connected to a different network.</source>
+        <target>本地没有可用的钱包，钱包管理器已锁定，或者您已连接到其他网络</target>
+      </trans-unit>
+      <trans-unit id="BLOCKCHAIN__WALLET_ADDRESS_NOTICE">
+        <source>Hey, do you want to setup your Tokens wallet?</source>
+        <target>想创建你的FF钱包吗？</target>
+      </trans-unit>
+      <trans-unit id="af9d0d81e627049804748055715389cab9d39238">
+        <source>Bought</source>
+        <target>已买</target>
+      </trans-unit>
+      <trans-unit id="1e957cc693a4a5114f86a4ddba3f7144b36a1b87">
+        <source>T-shirt Size</source>
+        <target>T-shirt大小</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__ANALYTICS__PAGE_VIEWS">
+        <source>Page Views</source>
+        <target>PV</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__BOOST_BID_TOKENS_LABEL">
+        <source>Bid: <x id="INTERPOLATION" /> Tokens</source>
+        <target>竞价: <x id="INTERPOLATION" /> FF</target>
+      </trans-unit>
+      <trans-unit id="MINDS__ADMIN__BOOSTS__NOT_REVIEW_STATE">
+        <source>This boost is in <x id="INTERPOLATION" /> state.</source>
+        <target>这条推广状态是 <x id="INTERPOLATION" /> </target>
+      </trans-unit>
+      <trans-unit id="BLOCKCHAIN__OPTIONS__WALLET_TITLE">
+        <source>Token Configuration</source>
+        <target>FF Token设置</target>
+      </trans-unit>
+      <trans-unit id="BLOCKCHAIN__OPTIONS__WALLET_DESC">
+        <source>Enter your Ethereum wallet address below. If you installed and unlocked MetaMask, or have a web3-enabled browser your local wallets will be listed below. You can click on them to auto-fill the address field.</source>
+        <target>请在下方输入以太坊地址，如果你安装并解锁元模型, 或者启用Web3浏览器，您的本地钱包将在下面列出，你可以点击选择.</target>
+      </trans-unit>
+      <trans-unit id="BLOCKCHAIN__OPTIONS__WALLET_LABEL">
+        <source>Ethereum Wallet Address</source>
+        <target>以太坊钱包地址</target>
+      </trans-unit>
+      <trans-unit id="BLOCKCHAIN__OPTIONS__SAVE_WALLET_ADDRESS">
+        <source>Save Address</source>
+        <target>保存地址</target>
+      </trans-unit>
+      <trans-unit id="7b60fcdd6c299388c6e789816df031f4368206fd">
+        <source>Pre-registered</source>
+        <target>预先注册</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__TOKENS_WITH_VALUE">
+        <source>M <x id="INTERPOLATION" /></source>
+        <target>M <x id="INTERPOLATION" /></target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__OFFCHAIN_LABEL">
+        <source>OffChain</source>
+        <target>链下</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CREATOR__CC_SELECTOR">
+        <source>Credit Card</source>
+        <target>信用卡</target>
+      </trans-unit>
+      <trans-unit id="BOOST_CONSOLE_PUBLISHER__SETTINGS__TITLE">
+        <source>Publisher Settings</source>
+        <target>发布商设置</target>
+      </trans-unit>
+      <trans-unit id="BOOST_CONSOLE_PUBLISHER__SETTINGS__DESCRIPTION">
+        <source>Being a publisher allows you to earn points and/or money by showing boosts on your channel page.</source>
+        <target>作为一个发布商，你可以通过在你的频道页面上显示宣传来赚取积分和/或金钱。</target>
+      </trans-unit>
+      <trans-unit id="BOOST_CONSOLE_PUBLISHER__SETTINGS__BECOME_A_PUBLISHER">
+        <source>Become a Publisher</source>
+        <target>成为发布商</target>
+      </trans-unit>
+      <trans-unit id="BOOST_CONSOLE_PUBLISHER__OPTIONS__STOP_BEING_A_PUBLISHER">
+        <source>Stop Being a Publisher</source>
+        <target>不在当发布商</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__PUBLISHER_LEDGER__VIEWS_COLUMN">
+        <source>Views</source>
+        <target>浏览量</target>
+      </trans-unit>
+      <trans-unit id="BOOST__CONSOLE__PUBLISHER_LEDGER__NO_EASRNINGS_NOTICE">
+        <source>No earnings to show.</source>
+        <target>没有赚到更多.</target>
+      </trans-unit>
+      <trans-unit id="M__CREATOR__CONFIRM_PASSWORD">
+        <source>Confirm password</source>
+        <target>确认密码</target>
+      </trans-unit>
+      <trans-unit id="MINDS__LOGIN__EXCEPTION__INCORRECT_PASSWORD">
+        <source>Incorrect password. Please try again.</source>
+        <target>密码错误，请再次输入</target>
+      </trans-unit>
+      <trans-unit id="M__ACTION__SUBMIT">
+        <source>Submit</source>
+        <target>提交</target>
+      </trans-unit>
+      <trans-unit id="SETTINGS__NAVIGATION__EMAIL_NOTIFICATIONS_NAV">
+        <source>Email Notifications</source>
+        <target>邮件提醒</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__SESSIONS">
+        <source>Sessions</source>
+        <target>会话</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__YOU_CURRENTLY_HAVE_X_OPENED">
+        <source>You currently have <x id="INTERPOLATION" /> opened <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />.</source>
+        <target>你已 <x id="INTERPOLATION" /> 打开 <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />.</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__SESSION">
+        <source>session</source>
+        <target>会话</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__CLOSE_ALL_SESSIONS_CONFIRM">
+        <source>Close All Sessions</source>
+        <target>关闭全部会话</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__UNREAD_NOTIFICATIONS_LABEL">
+        <source>I have unread notifications</source>
+        <target>未读通知</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__WIRE_RECEIVED_LABEL">
+        <source>I receive a wire</source>
+        <target>收到转账</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__BOOST_COMPLETED_LABEL">
+        <source>My boost has been completed</source>
+        <target>我的推广已达成</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__TOP_POSTS_LABEL">
+        <source>Top posts from my network</source>
+        <target>我信息流里最热门的短推</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__TIPS_IMPROVE_CHANNEL_LABEL">
+        <source>Tips on how to improve my channel</source>
+        <target>提升我的频道的窍门</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__SINCE_MISSED_SINCE_LAST_LOGIN_LABEL">
+        <source>Things I've missed since my last login</source>
+        <target>自最后一次登录后错过的新闻</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__NEW_CHANNELS_LABEL">
+        <source>New channels to subscribe to</source>
+        <target>可关注的人</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__MINDS_NEWS_LABEL">
+        <source>News about new Minds products and features</source>
+        <target>55 social的新闻及新功能新特征</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__TIPS_ON_HOW_TO_USE_MINDS_LABEL">
+        <source>Tips on how to use Minds</source>
+        <target>使用55 social的诀窍</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__EXCLUSIVE_PROMOTIONS_LABEL">
+        <source>Exclusive promotions</source>
+        <target>专属推广</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__WIRE__PREVIEW_DESC">
+        <source>The below description and preview image is what your subscribers will see on your exclusive posts until they become a supporter.</source>
+        <target>下面的描述和预览图片是您的粉丝在成为支持者之前在您的独家帖子上看到的内容。 </target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__WIRE__DESCRIPTION_LABEL">
+        <source>Description</source>
+        <target>描述</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__WIRE__DESCRIPTION_PLACEHOLDER">
+        <source>eg. Support me to see my exclusive content and join me for a monthly video chat</source>
+        <target>例如：支持我查看我的独家内容并加入我每月的视频聊天</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__WIRE__BACKGROUND_LABEL">
+        <source>Background</source>
+        <target>背景</target>
+      </trans-unit>
+      <trans-unit id="MINDS__SETTINGS__WIRE__PREVIEW_LABEL">
+        <source>Preview</source>
+        <target>预览</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__TOPBAR__SUBSCRIPTIONS_TOOLTIP">
+        <source>Channels you are subscribed to</source>
+        <target>你关注的</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__TOPBAR__SUBSCRIBERS_TOOLTIP">
+        <source>Channels who are subscribed to you</source>
+        <target>关注你的</target>
+      </trans-unit>
+      <trans-unit id="MINDS__CHANNELS__TOPBAR__FOUNDERS_TOOLTIP">
+        <source>Channels who invested in the Minds Reg-CF Crowfunding campaign</source>
+        <target>55 social奠基人</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__TOPBAR__SUBSCRIBED_TOOLTIP">
+        <source>Your Newsfeed contains posts from channels that you are subscribed to, as well as boosted posts from the wider network</source>
+        <target>您的广场信息流包含来自您关注的人发布的短推，以及平台推广的短推。</target>
+      </trans-unit>
+      <trans-unit id="MINDS__NEWSFEED__TOPBAR__BOOSTFEED_TOOLTIP">
+        <source>The Boostfeed only shows boosted posts from the wider network. To Boost your content, click the Boost icon on the topbar</source>
+        <target>推广广告只显示来自平台推广的内容，想做推广，请单击顶部栏上的推广图标。 </target>
+      </trans-unit>
+      <trans-unit id="MINDS__HOME__HOMEPAGE__ECONOMY_TITLE">
+        <source>How the economy works</source>
+        <target>资金是怎么流转的</target>
+      </trans-unit>
+      <trans-unit id="@@MINDS__VIDEOS__TOPBAR__SUBSCRIPTIONS_TOOLTIP">
+        <source>Videos from channels you are subscribed to</source>
+        <target>你关注的人发的视频</target>
+      </trans-unit>
+      <trans-unit id="MINDS__VIDEOS__TOPBAR__YOUR_VIDEOS_TOOLTIP">
+        <source>Your Videos</source>
+        <target>你的视频</target>
+      </trans-unit>
+      <trans-unit id="MINDS__VIDEOS__TOPBAR__UPLOAD_TOOLTIP">
+        <source>Upload a new Video</source>
+        <target>上传新视频</target>
+      </trans-unit>
+      <trans-unit id="@@MINDS__IMAGES__TOPBAR__SUBSCRIPTIONS_TOOLTIP">
+        <source>Images from channels you are subscribed to</source>
+        <target>你关注的人发的图片</target>
+      </trans-unit>
+      <trans-unit id="MINDS__IMAGES__TOPBAR__YOUR_IMAGES_TOOLTIP">
+        <source>Your Images</source>
+        <target>你的图片</target>
+      </trans-unit>
+      <trans-unit id="MINDS__IMAGES__TOPBAR__UPLOAD_TOOLTIP">
+        <source>Upload a new Image</source>
+        <target>上传新图片</target>
+      </trans-unit>
+      <trans-unit id="779e00c9618927a6a740ddf74ba9756e5020d682">
+        <source>upload a new one</source>
+        <target>上传新的</target>
+      </trans-unit>
+      <trans-unit id="MEDIA__EDIT__INLINE_EDITOR_PLACEHOLDER">
+        <source>Go ahead and write some content!</source>
+        <target>请写新内容吧</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__BALANCE_LABEL">
+        <source>Balance</source>
+        <target>余额</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__BALANCE_VALUE_ETH_IFACE_LABEL">
+        <source>This balance is for the <x id="INTERPOLATION" /> wallet that is currently active in your Ethereum interface.</source>
+        <target>这个余额是 <x id="INTERPOLATION" /> 来自你在以太坊链上活跃的钱包</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__BALANCE_VALUE_AS_RCV_LABEL">
+        <source>This balance is for the <x id="INTERPOLATION" /> wallet that is currently set up as the receiver wallet for your channel.</source>
+        <target>这个余额是 <x id="INTERPOLATION" /> 专门用来接收别人转账给你收入的FF</target>
+      </trans-unit>
+      <trans-unit id="M__COMMON__BALANCE_VALUE_OFFCHAIN_LABEL">
+        <source>This balance is for your Minds.com OffChain wallet. Transactions made from this address will not appear on the blockchain.</source>
+        <target>这个余额是你在55 social的链下钱包.转账记录不会出现在链上。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
