@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 social
 =====
 social is an open-source, encrypted and reward-based social networking platform. https://social.55.com
@@ -54,3 +55,6 @@ Please report all security issues to [security@minds.com](mailto:security@minds.
 ___Copyright Minds 2012 - 2018___
 
 Copyright for portions of Minds are held by [Elgg](http://elgg.org), 2013 as part of the [Elgg](http://elgg.org) project. All other copyright for Minds is held by Minds, Inc.
+=======
+# 55social
+>>>>>>> 4fd7d3a2e2f5b46f35a6be1b8ce3c427a8326075
