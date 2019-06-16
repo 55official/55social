@@ -1,15 +1,10 @@
-Minds
+social
 =====
-Minds is an open-source, encrypted and reward-based social networking platform. https://minds.com
+social is an open-source, encrypted and reward-based social networking platform. https://social.55.com
 
 ## Repositories
 
-Minds is split into multiple repositories:
-
-- [Engine](https://github.com/Minds/engine) - Backend code & APIs
-- [Front](https://github.com/Minds/front) - Client side Angular2 web app
-- [Sockets](https://github.com/Minds/sockets) - WebSocket server for real-time communication
-- [Mobile](https://github.com/Minds/mobile-native) - React Native mobile apps
+social is split into multiple repositories:
 
 
 ## Development System Requirements
